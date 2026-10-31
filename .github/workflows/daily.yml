@@ -22,8 +22,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Test
@@ -34,9 +34,28 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          git diff --cached --quiet || git commit -m "Daily edition $(date -u +%F)"
-          git push
+          # This run may have checked out an older commit (e.g. it queued behind
+          # another run), so put today's edition on top of the latest main
+          # rather than pushing from a stale checkout.
+          cp data/news.json "$RUNNER_TEMP/news.json"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$RUNNER_TEMP/news.json" data/news.json
+            git add data/news.json
+            if git diff --cached --quiet; then
+              echo "No change to today's edition."
+              exit 0
+            fi
+            git commit -m "Daily edition $(date -u +%F)"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), retrying..."
+            sleep $((attempt * 5))
+          done
+          echo "Could not push today's edition after 3 attempts." >&2
+          exit 1
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
