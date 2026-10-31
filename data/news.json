@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-31",
+  "window": "Stories from 23 to 30 October 2026",
+  "updated": "Updated 31 October 2026, 14:20 UTC",
+  "stories": [
+    {
+      "cat": "threat",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30",
+      "why": "A China-linked group called Vapor Panda has used the ARTEX AI pentesting framework against more than 200 organizations since 17 October."
+    },
+    {
+      "cat": "exposure",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "why": "CVE-2026-98432 has no fixed Ubuntu or RHEL kernel yet, and Anthropic says its AI wrote a working root exploit for it."
+    },
+    {
+      "cat": "exposure",
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "why": "Thousands of still-working cloud and AI API keys sit in public code repositories, with no confirmed revocation."
+    },
+    {
+      "cat": "vuln",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "why": "An unreleased model found separate flaws across major platforms and chained them into working exploits. All of them are now patched."
+    },
+    {
+      "cat": "vuln",
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "why": "Google's new model posts top scores on benchmarks for vulnerability discovery, exploitation and patching."
+    },
+    {
+      "cat": "exposure",
+      "title": "Bitdefender's new tool maps how attackers could reach critical systems",
+      "url": "https://thenextweb.com/news/bitdefender-gravityzone-exposure-management-attack-paths",
+      "source": "The Next Web",
+      "date": "2026-10-27",
+      "why": "GravityZone Exposure Management finds flaws, misconfigurations and risky user behaviour, then maps the attack paths that chain them together."
+    },
+    {
+      "cat": "threat",
+      "title": "NIK C2 Malware Can Use Victims' OpenAI Keys for AI Queries",
+      "url": "https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-10-29",
+      "why": "New malware runs its AI queries on its victims' own OpenAI keys, so leaked AI credentials become attacker infrastructure."
+    },
+    {
+      "cat": "industry",
+      "title": "Cybersecurity M&A Roundup: Proofpoint Agrees $6.3bn Varonis Acquisition",
+      "url": "https://www.infosecurity-magazine.com/news-features/cybersecurity-ma-proofpoint-varonis/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-10-30",
+      "why": "Proofpoint is buying Varonis to strengthen its AI security offering, one of several AI-driven security deals in October."
+    },
+    {
+      "cat": "threat",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "why": "The Yoba campaign plants a loader next to genuine signed OpenAI and Anthropic executables in fake AI desktop apps on GitHub."
+    },
+    {
+      "cat": "exposure",
+      "title": "AI Didn't Break Vulnerability Management: it Exposed its Biggest Weakness",
+      "url": "https://www.infosecurity-magazine.com/opinions/ai-vulnerability-management/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-10-23",
+      "why": "An opinion piece arguing that AI-speed exploitation shows why teams must prioritise by real exposure instead of patch counts."
+    }
+  ]
+}

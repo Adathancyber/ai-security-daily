@@ -1,0 +1,14 @@
+[
+  {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews"},
+  {"name": "Infosecurity Magazine", "url": "https://www.infosecurity-magazine.com/rss/news/"},
+  {"name": "Dark Reading", "url": "https://www.darkreading.com/rss.xml"},
+  {"name": "SecurityWeek", "url": "https://www.securityweek.com/feed/"},
+  {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
+  {"name": "Help Net Security", "url": "https://www.helpnetsecurity.com/feed/"},
+  {"name": "The Record", "url": "https://therecord.media/feed"},
+  {"name": "The Register", "url": "https://www.theregister.com/security/headlines.atom"},
+  {"name": "CSO Online", "url": "https://www.csoonline.com/feed/"},
+  {"name": "SC Media", "url": "https://www.scworld.com/feed"},
+  {"name": "Security Boulevard", "url": "https://securityboulevard.com/feed/"},
+  {"name": "Cyber Security News", "url": "https://cybersecuritynews.com/feed/"}
+]
