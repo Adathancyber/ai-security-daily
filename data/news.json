@@ -1,23 +1,39 @@
 {
   "date": "2026-10-31",
-  "window": "Stories from 23 to 30 October 2026",
-  "updated": "Updated 31 October 2026, 14:20 UTC",
+  "window": "Stories from 29 to 31 October 2026",
+  "updated": "Updated 31 October 2026, 14:31 GMT",
   "stories": [
     {
-      "cat": "threat",
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "source": "The Hacker News",
+      "cat": "exposure",
+      "title": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
+      "url": "https://www.csoonline.com/article/4242724/anthropic-ai-model-finds-linux-kernel-bug-that-leads-to-remote-root-access.html",
+      "source": "CSO Online",
       "date": "2026-10-30",
-      "why": "A China-linked group called Vapor Panda has used the ARTEX AI pentesting framework against more than 200 organizations since 17 October."
+      "why": "Linux servers running Multipath TCP (MPTCP) could be vulnerable to remote code execution through a flaw in the kernel’s networking stack."
+    },
+    {
+      "cat": "vuln",
+      "title": "Securing MCP servers before the AI rollout outpaces security",
+      "url": "https://www.csoonline.com/article/4241763/securing-mcp-servers-before-the-ai-rollout-outpaces-security.html",
+      "source": "CSO Online",
+      "date": "2026-10-29",
+      "why": "Your company’s CTO has a plan to implement your company’s first LLM-based application. The board approved it, and now you’re finding out about it. It’s a typical story I hear all the time, and I’ve lived it myself."
     },
     {
       "cat": "exposure",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "source": "The Hacker News",
+      "title": "Vulnerability exploitation rising as the root cause of many breaches",
+      "url": "https://www.csoonline.com/article/4241912/vulnerability-exploitation-rising-as-the-root-cause-of-many-breaches.html",
+      "source": "CSO Online",
       "date": "2026-10-29",
-      "why": "CVE-2026-98432 has no fixed Ubuntu or RHEL kernel yet, and Anthropic says its AI wrote a working root exploit for it."
+      "why": "More evidence has emerged that attackers are turning to vulnerabilities rather than phishing as a means for breaking into corporate systems."
+    },
+    {
+      "cat": "industry",
+      "title": "Beyond deterministic worms: Preparing the SOC for reasoning adversaries",
+      "url": "https://www.csoonline.com/article/4242253/beyond-deterministic-worms-preparing-the-soc-for-reasoning-adversaries.html",
+      "source": "CSO Online",
+      "date": "2026-10-30",
+      "why": "In May 2017, the WannaCry cryptoworm spread across the internet, compromising more than 200,000 computers in at least 100 countries."
     },
     {
       "cat": "exposure",
@@ -25,15 +41,31 @@
       "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
       "source": "The Hacker News",
       "date": "2026-10-29",
-      "why": "Thousands of still-working cloud and AI API keys sit in public code repositories, with no confirmed revocation."
+      "why": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it."
     },
     {
-      "cat": "vuln",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "cat": "threat",
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30",
+      "why": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware."
+    },
+    {
+      "cat": "exposure",
+      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+      "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+      "source": "The Register",
+      "date": "2026-10-29",
+      "why": "Embedded browsers are at the heart of the problem"
+    },
+    {
+      "cat": "exposure",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "source": "The Hacker News",
-      "date": "2026-10-28",
-      "why": "An unreleased model found separate flaws across major platforms and chained them into working exploits. All of them are now patched."
+      "date": "2026-10-29",
+      "why": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale."
     },
     {
       "cat": "vuln",
@@ -41,47 +73,15 @@
       "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "source": "The Hacker News",
       "date": "2026-10-29",
-      "why": "Google's new model posts top scores on benchmarks for vulnerability discovery, exploitation and patching."
-    },
-    {
-      "cat": "exposure",
-      "title": "Bitdefender's new tool maps how attackers could reach critical systems",
-      "url": "https://thenextweb.com/news/bitdefender-gravityzone-exposure-management-attack-paths",
-      "source": "The Next Web",
-      "date": "2026-10-27",
-      "why": "GravityZone Exposure Management finds flaws, misconfigurations and risky user behaviour, then maps the attack paths that chain them together."
+      "why": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities."
     },
     {
       "cat": "threat",
-      "title": "NIK C2 Malware Can Use Victims' OpenAI Keys for AI Queries",
-      "url": "https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-10-29",
-      "why": "New malware runs its AI queries on its victims' own OpenAI keys, so leaked AI credentials become attacker infrastructure."
-    },
-    {
-      "cat": "industry",
-      "title": "Cybersecurity M&A Roundup: Proofpoint Agrees $6.3bn Varonis Acquisition",
-      "url": "https://www.infosecurity-magazine.com/news-features/cybersecurity-ma-proofpoint-varonis/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-10-30",
-      "why": "Proofpoint is buying Varonis to strengthen its AI security offering, one of several AI-driven security deals in October."
-    },
-    {
-      "cat": "threat",
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
       "source": "The Hacker News",
-      "date": "2026-10-29",
-      "why": "The Yoba campaign plants a loader next to genuine signed OpenAI and Anthropic executables in fake AI desktop apps on GitHub."
-    },
-    {
-      "cat": "exposure",
-      "title": "AI Didn't Break Vulnerability Management: it Exposed its Biggest Weakness",
-      "url": "https://www.infosecurity-magazine.com/opinions/ai-vulnerability-management/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-10-23",
-      "why": "An opinion piece arguing that AI-speed exploitation shows why teams must prioritise by real exposure instead of patch counts."
+      "date": "2026-10-31",
+      "why": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed."
     }
   ]
 }
