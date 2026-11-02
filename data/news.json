@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-01",
-  "window": "Stories from 29 to 31 October 2026",
-  "updated": "Updated 1 November 2026, 11:49 GMT",
+  "date": "2026-11-02",
+  "window": "Stories from 29 October to 2 November 2026",
+  "updated": "Updated 2 November 2026, 13:28 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "What a security strategy that survives 2027 looks like",
+      "url": "https://www.csoonline.com/article/4240618/what-a-security-strategy-that-survives-2027-looks-like.html",
+      "source": "CSO Online",
+      "date": "2026-11-02",
+      "why": "Equifax CISO Jeremy Koppen sees the same dynamics most security chiefs are facing: hackers on the one side using AI to perform more sophisticated attacks at unprecedented speed, and defenders on the other adopting AI…"
+    },
     {
       "cat": "exposure",
       "title": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
@@ -12,28 +20,20 @@
       "why": "Linux servers running Multipath TCP (MPTCP) could be vulnerable to remote code execution through a flaw in the kernel’s networking stack."
     },
     {
-      "cat": "vuln",
-      "title": "Securing MCP servers before the AI rollout outpaces security",
-      "url": "https://www.csoonline.com/article/4241763/securing-mcp-servers-before-the-ai-rollout-outpaces-security.html",
+      "cat": "threat",
+      "title": "Cursor removes malicious Claude Code extension after SSH backdoor attempt",
+      "url": "https://www.csoonline.com/article/4243210/cursor-removes-malicious-claude-code-extension-after-ssh-backdoor-attempt.html",
       "source": "CSO Online",
-      "date": "2026-10-29",
-      "why": "Your company’s CTO has a plan to implement your company’s first LLM-based application. The board approved it, and now you’re finding out about it. It’s a typical story I hear all the time, and I’ve lived it myself."
+      "date": "2026-11-02",
+      "why": "A malicious version of Anthropic’s Claude Code extension distributed through the Cursor marketplace attempted to install a persistent Secure Shell (SSH) backdoor on developers’ machines, potentially giving attackers…"
     },
     {
-      "cat": "exposure",
-      "title": "Vulnerability exploitation rising as the root cause of many breaches",
-      "url": "https://www.csoonline.com/article/4241912/vulnerability-exploitation-rising-as-the-root-cause-of-many-breaches.html",
+      "cat": "threat",
+      "title": "Why do we keep testing employees for yesterday’s phishing attacks",
+      "url": "https://www.csoonline.com/article/4242712/why-do-we-keep-testing-employees-for-yesterdays-phishing-attacks.html",
       "source": "CSO Online",
-      "date": "2026-10-29",
-      "why": "More evidence has emerged that attackers are turning to vulnerabilities rather than phishing as a means for breaking into corporate systems."
-    },
-    {
-      "cat": "industry",
-      "title": "Beyond deterministic worms: Preparing the SOC for reasoning adversaries",
-      "url": "https://www.csoonline.com/article/4242253/beyond-deterministic-worms-preparing-the-soc-for-reasoning-adversaries.html",
-      "source": "CSO Online",
-      "date": "2026-10-30",
-      "why": "In May 2017, the WannaCry cryptoworm spread across the internet, compromising more than 200,000 computers in at least 100 countries."
+      "date": "2026-11-02",
+      "why": "“Yesterday’s price is not today’s price,” a phrase Fat Joe popularized in 2021 , reminds us that what worked yesterday may not deliver the same value today."
     },
     {
       "cat": "exposure",
@@ -45,11 +45,35 @@
     },
     {
       "cat": "threat",
+      "title": "Chainalysis breached using “offensive agentic techniques”",
+      "url": "https://www.helpnetsecurity.com/2026/11/02/chainalysis-breached-using-offensive-agentic-techniques/",
+      "source": "Help Net Security",
+      "date": "2026-11-02",
+      "why": "Blockchain analytics firm Chainalysis has suffered a cybersecurity incident that led to a data breach. According to the company’s Friday announcement, the incident is unrelated to the recent Binance hack."
+    },
+    {
+      "cat": "threat",
+      "title": "Ransomware gang talked AI agents into doing much of its dirty work",
+      "url": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/",
+      "source": "Help Net Security",
+      "date": "2026-11-02",
+      "why": "The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos."
+    },
+    {
+      "cat": "threat",
       "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
       "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
       "source": "SecurityWeek",
       "date": "2026-10-30",
       "why": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware."
+    },
+    {
+      "cat": "threat",
+      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+      "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+      "source": "SecurityWeek",
+      "date": "2026-11-02",
+      "why": "The attackers used offensive agentic techniques to access the company’s systems and internal tools."
     },
     {
       "cat": "exposure",
@@ -58,30 +82,6 @@
       "source": "The Register",
       "date": "2026-10-29",
       "why": "Embedded browsers are at the heart of the problem"
-    },
-    {
-      "cat": "exposure",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "why": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale."
-    },
-    {
-      "cat": "vuln",
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "why": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities."
-    },
-    {
-      "cat": "threat",
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "source": "The Hacker News",
-      "date": "2026-10-31",
-      "why": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed."
     }
   ]
 }
