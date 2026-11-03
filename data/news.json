@@ -1,8 +1,24 @@
 {
-  "date": "2026-11-02",
-  "window": "Stories from 29 October to 2 November 2026",
-  "updated": "Updated 2 November 2026, 13:28 GMT",
+  "date": "2026-11-03",
+  "window": "Stories from 29 October to 3 November 2026",
+  "updated": "Updated 3 November 2026, 12:46 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "Network appliances go more than a year without patches as exploits speed up",
+      "url": "https://www.csoonline.com/article/4243874/network-appliances-go-more-than-a-year-without-patches-as-exploits-speed-up.html",
+      "source": "CSO Online",
+      "date": "2026-11-03",
+      "why": "The median vulnerability on enterprise network appliances stays unpatched for more than a year, Microsoft’s own telemetry shows, even as the most damaging software flaws are being weaponized within days of disclosure."
+    },
+    {
+      "cat": "exposure",
+      "title": "Armed with AI, hackers target endpoint security blind spots, raising stakes for CISOs",
+      "url": "https://www.csoonline.com/article/4243816/armed-with-ai-hackers-target-endpoint-security-blind-spots-raising-stakes-for-cisos.html",
+      "source": "CSO Online",
+      "date": "2026-11-03",
+      "why": "A China-linked hacking group’s use of AI agents to identify security weaknesses during a global espionage campaign is raising concerns about whether enterprises can detect gaps in their defenses before automated…"
+    },
     {
       "cat": "exposure",
       "title": "What a security strategy that survives 2027 looks like",
@@ -20,20 +36,36 @@
       "why": "Linux servers running Multipath TCP (MPTCP) could be vulnerable to remote code execution through a flaw in the kernel’s networking stack."
     },
     {
-      "cat": "threat",
-      "title": "Cursor removes malicious Claude Code extension after SSH backdoor attempt",
-      "url": "https://www.csoonline.com/article/4243210/cursor-removes-malicious-claude-code-extension-after-ssh-backdoor-attempt.html",
-      "source": "CSO Online",
-      "date": "2026-11-02",
-      "why": "A malicious version of Anthropic’s Claude Code extension distributed through the Cursor marketplace attempted to install a persistent Secure Shell (SSH) backdoor on developers’ machines, potentially giving attackers…"
+      "cat": "vuln",
+      "title": "AI coding agents are installing MCP servers that will never be patched",
+      "url": "https://www.helpnetsecurity.com/2026/11/03/mcphantom-deprecated-mcp-servers/",
+      "source": "Help Net Security",
+      "date": "2026-11-03",
+      "why": "When a developer tells an AI coding agent to “set up a GitHub MCP,” the agent has to pick a package."
+    },
+    {
+      "cat": "industry",
+      "title": "OpenAI raises top bug bounty payout to $172,000 with bonuses",
+      "url": "https://www.helpnetsecurity.com/2026/11/03/openai-bigger-bug-bounty-rewards/",
+      "source": "Help Net Security",
+      "date": "2026-11-03",
+      "why": "OpenAI increased its security bug bounties to encourage independent researchers to find vulnerabilities in its software. The program now offers bonuses for high-quality reports."
     },
     {
       "cat": "threat",
-      "title": "Why do we keep testing employees for yesterday’s phishing attacks",
-      "url": "https://www.csoonline.com/article/4242712/why-do-we-keep-testing-employees-for-yesterdays-phishing-attacks.html",
-      "source": "CSO Online",
-      "date": "2026-11-02",
-      "why": "“Yesterday’s price is not today’s price,” a phrase Fat Joe popularized in 2021 , reminds us that what worked yesterday may not deliver the same value today."
+      "title": "NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure",
+      "url": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-03",
+      "why": "The UK’s cyber chief has warned that AI-powered malware is highly likely to feature in ransomware attacks targeting British critical infrastructure by 2028"
+    },
+    {
+      "cat": "vuln",
+      "title": "Product showcase: Sweet Virtual Patching stops HTTP2Shell while fixes catch up",
+      "url": "https://www.helpnetsecurity.com/2026/11/03/product-showcase-sweet-security-virtual-patching/",
+      "source": "Help Net Security",
+      "date": "2026-11-03",
+      "why": "HTTP2Shell (CVE-2026-111497), the critical Brotli bug first known as Node2Shell, is a remote code execution flaw in the compression library inside Node.js, Bun, Envoy, Python and more."
     },
     {
       "cat": "exposure",
@@ -45,43 +77,11 @@
     },
     {
       "cat": "threat",
-      "title": "Chainalysis breached using “offensive agentic techniques”",
-      "url": "https://www.helpnetsecurity.com/2026/11/02/chainalysis-breached-using-offensive-agentic-techniques/",
+      "title": "What human hackers still do better than AI, according to HackerOne’s CEO",
+      "url": "https://www.helpnetsecurity.com/2026/11/03/kara-sprague-hackerone-ai-bug-bounty/",
       "source": "Help Net Security",
-      "date": "2026-11-02",
-      "why": "Blockchain analytics firm Chainalysis has suffered a cybersecurity incident that led to a data breach. According to the company’s Friday announcement, the incident is unrelated to the recent Binance hack."
-    },
-    {
-      "cat": "threat",
-      "title": "Ransomware gang talked AI agents into doing much of its dirty work",
-      "url": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/",
-      "source": "Help Net Security",
-      "date": "2026-11-02",
-      "why": "The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos."
-    },
-    {
-      "cat": "threat",
-      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-      "source": "SecurityWeek",
-      "date": "2026-10-30",
-      "why": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware."
-    },
-    {
-      "cat": "threat",
-      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-      "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02",
-      "why": "The attackers used offensive agentic techniques to access the company’s systems and internal tools."
-    },
-    {
-      "cat": "exposure",
-      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
-      "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
-      "source": "The Register",
-      "date": "2026-10-29",
-      "why": "Embedded browsers are at the heart of the problem"
+      "date": "2026-11-03",
+      "why": "AI can find vulnerabilities in minutes, but people still hold the edge in judging what a flaw means for a business."
     }
   ]
 }
