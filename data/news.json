@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-03",
-  "window": "Stories from 29 October to 3 November 2026",
-  "updated": "Updated 3 November 2026, 12:46 GMT",
+  "date": "2026-11-04",
+  "window": "Stories from 3 to 4 November 2026",
+  "updated": "Updated 4 November 2026, 12:58 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -12,76 +12,76 @@
       "why": "The median vulnerability on enterprise network appliances stays unpatched for more than a year, Microsoft’s own telemetry shows, even as the most damaging software flaws are being weaponized within days of disclosure."
     },
     {
-      "cat": "exposure",
-      "title": "Armed with AI, hackers target endpoint security blind spots, raising stakes for CISOs",
-      "url": "https://www.csoonline.com/article/4243816/armed-with-ai-hackers-target-endpoint-security-blind-spots-raising-stakes-for-cisos.html",
+      "cat": "vuln",
+      "title": "CrowdStrike’s AI SOC vision evolves as agentic uncertainty adds new twist",
+      "url": "https://www.csoonline.com/article/4244299/crowdstrikes-ai-soc-vision-evolves-as-agentic-uncertainty-adds-new-twist.html",
       "source": "CSO Online",
-      "date": "2026-11-03",
-      "why": "A China-linked hacking group’s use of AI agents to identify security weaknesses during a global espionage campaign is raising concerns about whether enterprises can detect gaps in their defenses before automated…"
-    },
-    {
-      "cat": "exposure",
-      "title": "What a security strategy that survives 2027 looks like",
-      "url": "https://www.csoonline.com/article/4240618/what-a-security-strategy-that-survives-2027-looks-like.html",
-      "source": "CSO Online",
-      "date": "2026-11-02",
-      "why": "Equifax CISO Jeremy Koppen sees the same dynamics most security chiefs are facing: hackers on the one side using AI to perform more sophisticated attacks at unprecedented speed, and defenders on the other adopting AI…"
-    },
-    {
-      "cat": "exposure",
-      "title": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
-      "url": "https://www.csoonline.com/article/4242724/anthropic-ai-model-finds-linux-kernel-bug-that-leads-to-remote-root-access.html",
-      "source": "CSO Online",
-      "date": "2026-10-30",
-      "why": "Linux servers running Multipath TCP (MPTCP) could be vulnerable to remote code execution through a flaw in the kernel’s networking stack."
+      "date": "2026-11-04",
+      "why": "“The software we use has become an actor,” declared CrowdStrike President Michael Sentonas in his address on the dangers and opportunity of agentic AI at the company’s Fal.Con conference in September."
     },
     {
       "cat": "vuln",
-      "title": "AI coding agents are installing MCP servers that will never be patched",
-      "url": "https://www.helpnetsecurity.com/2026/11/03/mcphantom-deprecated-mcp-servers/",
+      "title": "CrowdStrike to acquire Fiddler, Dreadnode to extend AI security across agent lifecycle",
+      "url": "https://www.csoonline.com/article/4244500/crowdstrike-to-acquire-fiddler-dreadnode-to-extend-ai-security-across-agent-lifecycle.html",
+      "source": "CSO Online",
+      "date": "2026-11-04",
+      "why": "CrowdStrike plans to acquire AI security companies Fiddler AI and Dreadnode in separate deals that will extend its Falcon platform into automated testing of AI systems and monitoring of AI agent behaviour, as…"
+    },
+    {
+      "cat": "exposure",
+      "title": "Barracuda’s security appliances have a security problem of their own",
+      "url": "https://www.csoonline.com/article/4244334/barracudas-security-appliances-have-a-security-problem-of-their-own.html",
+      "source": "CSO Online",
+      "date": "2026-11-04",
+      "why": "Barracuda, which offers a wide variety of cybersecurity devices, has been bitten by a bug itself."
+    },
+    {
+      "cat": "threat",
+      "title": "What AI-generated malware looks like under the microscope",
+      "url": "https://www.helpnetsecurity.com/2026/11/04/lindsay-kaye-human-security-ai-generated-malware/",
       "source": "Help Net Security",
+      "date": "2026-11-04",
+      "why": "In this Help Net Security interview, Lindsay Kaye, VP of Threat Intelligence at HUMAN Security, talks about what AI-generated malware looks like on the bench."
+    },
+    {
+      "cat": "threat",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "source": "BleepingComputer",
       "date": "2026-11-03",
-      "why": "When a developer tells an AI coding agent to “set up a GitHub MCP,” the agent has to pick a package."
+      "why": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host."
+    },
+    {
+      "cat": "threat",
+      "title": "3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise",
+      "url": "https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-04",
+      "why": "Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated"
     },
     {
       "cat": "industry",
-      "title": "OpenAI raises top bug bounty payout to $172,000 with bonuses",
-      "url": "https://www.helpnetsecurity.com/2026/11/03/openai-bigger-bug-bounty-rewards/",
+      "title": "Impart uses AI to build virtual patches without putting models in the traffic path",
+      "url": "https://www.helpnetsecurity.com/2026/11/04/impart-security-runtime-defense-harness/",
       "source": "Help Net Security",
-      "date": "2026-11-03",
-      "why": "OpenAI increased its security bug bounties to encourage independent researchers to find vulnerabilities in its software. The program now offers bonuses for high-quality reports."
+      "date": "2026-11-04",
+      "why": "Impart Security has launched the Runtime Defense Harness, a controlled environment where AI agents write and test virtual patches for new vulnerabilities without putting AI in the traffic path."
     },
     {
       "cat": "threat",
-      "title": "NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure",
-      "url": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
-      "source": "Infosecurity Magazine",
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "source": "BleepingComputer",
       "date": "2026-11-03",
-      "why": "The UK’s cyber chief has warned that AI-powered malware is highly likely to feature in ransomware attacks targeting British critical infrastructure by 2028"
-    },
-    {
-      "cat": "vuln",
-      "title": "Product showcase: Sweet Virtual Patching stops HTTP2Shell while fixes catch up",
-      "url": "https://www.helpnetsecurity.com/2026/11/03/product-showcase-sweet-security-virtual-patching/",
-      "source": "Help Net Security",
-      "date": "2026-11-03",
-      "why": "HTTP2Shell (CVE-2026-111497), the critical Brotli bug first known as Node2Shell, is a remote code execution flaw in the compression library inside Node.js, Bun, Envoy, Python and more."
-    },
-    {
-      "cat": "exposure",
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "why": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it."
+      "why": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications."
     },
     {
       "cat": "threat",
-      "title": "What human hackers still do better than AI, according to HackerOne’s CEO",
-      "url": "https://www.helpnetsecurity.com/2026/11/03/kara-sprague-hackerone-ai-bug-bounty/",
-      "source": "Help Net Security",
-      "date": "2026-11-03",
-      "why": "AI can find vulnerabilities in minutes, but people still hold the edge in judging what a flaw means for a business."
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-04",
+      "why": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks."
     }
   ]
 }
