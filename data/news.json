@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-04",
-  "window": "Stories from 3 to 4 November 2026",
-  "updated": "Updated 4 November 2026, 12:58 GMT",
+  "date": "2026-11-05",
+  "window": "Stories from 3 to 5 November 2026",
+  "updated": "Updated 5 November 2026, 13:10 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
+      "url": "https://www.csoonline.com/article/4245109/debian-ubuntu-patch-apt-flaw-that-could-hand-attackers-root.html",
+      "source": "CSO Online",
+      "date": "2026-11-05",
+      "why": "Linux administrators’ trust in package managers is being tested by a newly disclosed vulnerability in APT, the package management system used by Debian, Ubuntu, and their derivatives, that could allow attackers to…"
+    },
     {
       "cat": "exposure",
       "title": "Network appliances go more than a year without patches as exploits speed up",
@@ -28,60 +36,52 @@
       "why": "CrowdStrike plans to acquire AI security companies Fiddler AI and Dreadnode in separate deals that will extend its Falcon platform into automated testing of AI systems and monitoring of AI agent behaviour, as…"
     },
     {
-      "cat": "exposure",
-      "title": "Barracuda’s security appliances have a security problem of their own",
-      "url": "https://www.csoonline.com/article/4244334/barracudas-security-appliances-have-a-security-problem-of-their-own.html",
-      "source": "CSO Online",
-      "date": "2026-11-04",
-      "why": "Barracuda, which offers a wide variety of cybersecurity devices, has been bitten by a bug itself."
-    },
-    {
       "cat": "threat",
-      "title": "What AI-generated malware looks like under the microscope",
-      "url": "https://www.helpnetsecurity.com/2026/11/04/lindsay-kaye-human-security-ai-generated-malware/",
-      "source": "Help Net Security",
-      "date": "2026-11-04",
-      "why": "In this Help Net Security interview, Lindsay Kaye, VP of Threat Intelligence at HUMAN Security, talks about what AI-generated malware looks like on the bench."
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "why": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services,…"
     },
     {
-      "cat": "threat",
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03",
-      "why": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host."
-    },
-    {
-      "cat": "threat",
-      "title": "3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise",
-      "url": "https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-11-04",
-      "why": "Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated"
-    },
-    {
-      "cat": "industry",
-      "title": "Impart uses AI to build virtual patches without putting models in the traffic path",
-      "url": "https://www.helpnetsecurity.com/2026/11/04/impart-security-runtime-defense-harness/",
-      "source": "Help Net Security",
-      "date": "2026-11-04",
-      "why": "Impart Security has launched the Runtime Defense Harness, a controlled environment where AI agents write and test virtual patches for new vulnerabilities without putting AI in the traffic path."
-    },
-    {
-      "cat": "threat",
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03",
-      "why": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications."
-    },
-    {
-      "cat": "threat",
-      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "cat": "vuln",
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+      "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
       "source": "SecurityWeek",
+      "date": "2026-11-05",
+      "why": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently."
+    },
+    {
+      "cat": "threat",
+      "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+      "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+      "source": "The Register",
+      "date": "2026-11-05",
+      "why": "From EOP to RCE in six simple steps"
+    },
+    {
+      "cat": "exposure",
+      "title": "Companies are spending more on AI governance and getting less control",
+      "url": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
+      "source": "Help Net Security",
+      "date": "2026-11-05",
+      "why": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report."
+    },
+    {
+      "cat": "exposure",
+      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+      "source": "The Record",
+      "date": "2026-11-05",
+      "why": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had…"
+    },
+    {
+      "cat": "vuln",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "source": "The Hacker News",
       "date": "2026-11-04",
-      "why": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks."
+      "why": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…"
     }
   ]
 }
