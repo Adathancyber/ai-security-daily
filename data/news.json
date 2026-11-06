@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-05",
-  "window": "Stories from 3 to 5 November 2026",
-  "updated": "Updated 5 November 2026, 13:10 GMT",
+  "date": "2026-11-06",
+  "window": "Stories from 4 to 6 November 2026",
+  "updated": "Updated 6 November 2026, 12:55 GMT",
   "stories": [
+    {
+      "cat": "vuln",
+      "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
+      "url": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
+      "source": "CSO Online",
+      "date": "2026-11-06",
+      "why": "A memory-safety flaw in CPython can allow malicious AI model templates to escape code sandboxes and execute arbitrary code inside inference servers, according to security researchers at RunSybil."
+    },
     {
       "cat": "exposure",
       "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
@@ -12,12 +20,12 @@
       "why": "Linux administrators’ trust in package managers is being tested by a newly disclosed vulnerability in APT, the package management system used by Debian, Ubuntu, and their derivatives, that could allow attackers to…"
     },
     {
-      "cat": "exposure",
-      "title": "Network appliances go more than a year without patches as exploits speed up",
-      "url": "https://www.csoonline.com/article/4243874/network-appliances-go-more-than-a-year-without-patches-as-exploits-speed-up.html",
+      "cat": "industry",
+      "title": "Binance heist is stark example of AI governance gaps and basic security failures",
+      "url": "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html",
       "source": "CSO Online",
-      "date": "2026-11-03",
-      "why": "The median vulnerability on enterprise network appliances stays unpatched for more than a year, Microsoft’s own telemetry shows, even as the most damaging software flaws are being weaponized within days of disclosure."
+      "date": "2026-11-05",
+      "why": "A chain of avoidable technical and human security failures enabled the largest crypto heist on record, the theft of approximately $6.34 billion from Binance ."
     },
     {
       "cat": "vuln",
@@ -28,12 +36,20 @@
       "why": "“The software we use has become an actor,” declared CrowdStrike President Michael Sentonas in his address on the dangers and opportunity of agentic AI at the company’s Fal.Con conference in September."
     },
     {
-      "cat": "vuln",
-      "title": "CrowdStrike to acquire Fiddler, Dreadnode to extend AI security across agent lifecycle",
-      "url": "https://www.csoonline.com/article/4244500/crowdstrike-to-acquire-fiddler-dreadnode-to-extend-ai-security-across-agent-lifecycle.html",
+      "cat": "exposure",
+      "title": "OpenAI’s GPT-6 Cyber ups the ante on vulnerability discovery",
+      "url": "https://www.csoonline.com/article/4244911/openais-gpt-6-cyber-ups-the-ante-on-vulnerability-discovery.html",
       "source": "CSO Online",
-      "date": "2026-11-04",
-      "why": "CrowdStrike plans to acquire AI security companies Fiddler AI and Dreadnode in separate deals that will extend its Falcon platform into automated testing of AI systems and monitoring of AI agent behaviour, as…"
+      "date": "2026-11-05",
+      "why": "OpenAI is introducing GPT-6 Cyber, a restricted access model that the company calls its most capable and aligned cybersecurity model yet, “built to help security researchers identify and validate exploitable…"
+    },
+    {
+      "cat": "vuln",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "why": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT."
     },
     {
       "cat": "threat",
@@ -45,11 +61,11 @@
     },
     {
       "cat": "vuln",
-      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-      "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
       "source": "SecurityWeek",
-      "date": "2026-11-05",
-      "why": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently."
+      "date": "2026-11-06",
+      "why": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet."
     },
     {
       "cat": "threat",
@@ -60,28 +76,12 @@
       "why": "From EOP to RCE in six simple steps"
     },
     {
-      "cat": "exposure",
-      "title": "Companies are spending more on AI governance and getting less control",
-      "url": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
-      "source": "Help Net Security",
-      "date": "2026-11-05",
-      "why": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report."
-    },
-    {
-      "cat": "exposure",
-      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-      "source": "The Record",
-      "date": "2026-11-05",
-      "why": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had…"
-    },
-    {
       "cat": "vuln",
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04",
-      "why": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI…"
+      "title": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed",
+      "url": "https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
+      "source": "Help Net Security",
+      "date": "2026-11-06",
+      "why": "OpenAI has introduced GPT-6 Cyber, a version of GPT-6 Astra trained to find software vulnerabilities, test how attackers could exploit them, and help develop fixes."
     }
   ]
 }
