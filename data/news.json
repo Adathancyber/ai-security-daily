@@ -1,16 +1,8 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "window": "Stories from 4 to 6 November 2026",
-  "updated": "Updated 7 November 2026, 11:42 GMT",
+  "updated": "Updated 8 November 2026, 11:55 GMT",
   "stories": [
-    {
-      "cat": "vuln",
-      "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
-      "url": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
-      "source": "CSO Online",
-      "date": "2026-11-06",
-      "why": "A memory-safety flaw in CPython can allow malicious AI model templates to escape code sandboxes and execute arbitrary code inside inference servers, according to security researchers at RunSybil."
-    },
     {
       "cat": "exposure",
       "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
@@ -20,12 +12,12 @@
       "why": "Linux administrators’ trust in package managers is being tested by a newly disclosed vulnerability in APT, the package management system used by Debian, Ubuntu, and their derivatives, that could allow attackers to…"
     },
     {
-      "cat": "industry",
-      "title": "Binance heist is stark example of AI governance gaps and basic security failures",
-      "url": "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html",
+      "cat": "vuln",
+      "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
+      "url": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
       "source": "CSO Online",
-      "date": "2026-11-05",
-      "why": "A chain of avoidable technical and human security failures enabled the largest crypto heist on record, the theft of approximately $6.34 billion from Binance ."
+      "date": "2026-11-06",
+      "why": "A memory-safety flaw in CPython can allow malicious AI model templates to escape code sandboxes and execute arbitrary code inside inference servers, according to security researchers at RunSybil."
     },
     {
       "cat": "vuln",
@@ -34,6 +26,14 @@
       "source": "CSO Online",
       "date": "2026-11-04",
       "why": "“The software we use has become an actor,” declared CrowdStrike President Michael Sentonas in his address on the dangers and opportunity of agentic AI at the company’s Fal.Con conference in September."
+    },
+    {
+      "cat": "industry",
+      "title": "Binance heist is stark example of AI governance gaps and basic security failures",
+      "url": "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html",
+      "source": "CSO Online",
+      "date": "2026-11-05",
+      "why": "A chain of avoidable technical and human security failures enabled the largest crypto heist on record, the theft of approximately $6.34 billion from Binance ."
     },
     {
       "cat": "exposure",
@@ -52,14 +52,6 @@
       "why": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws."
     },
     {
-      "cat": "vuln",
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "why": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT."
-    },
-    {
       "cat": "threat",
       "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
       "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
@@ -69,11 +61,11 @@
     },
     {
       "cat": "vuln",
-      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06",
-      "why": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet."
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "why": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT."
     },
     {
       "cat": "threat",
@@ -82,6 +74,14 @@
       "source": "The Register",
       "date": "2026-11-05",
       "why": "From EOP to RCE in six simple steps"
+    },
+    {
+      "cat": "vuln",
+      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "source": "SecurityWeek",
+      "date": "2026-11-06",
+      "why": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet."
     }
   ]
 }
