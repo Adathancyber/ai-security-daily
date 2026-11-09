@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-08",
-  "window": "Stories from 4 to 6 November 2026",
-  "updated": "Updated 8 November 2026, 11:55 GMT",
+  "date": "2026-11-09",
+  "window": "Stories from 4 to 9 November 2026",
+  "updated": "Updated 9 November 2026, 13:52 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "7 tips for achieving defensive agility",
+      "url": "https://www.csoonline.com/article/4240628/7-tips-for-achieving-defensive-agility.html",
+      "source": "CSO Online",
+      "date": "2026-11-09",
+      "why": "Defensive security agility reflects an organization’s potential to rapidly detect, adapt, and respond to evolving cyber threats and vulnerabilities without disrupting core operations."
+    },
     {
       "cat": "exposure",
       "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
@@ -13,14 +21,6 @@
     },
     {
       "cat": "vuln",
-      "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
-      "url": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
-      "source": "CSO Online",
-      "date": "2026-11-06",
-      "why": "A memory-safety flaw in CPython can allow malicious AI model templates to escape code sandboxes and execute arbitrary code inside inference servers, according to security researchers at RunSybil."
-    },
-    {
-      "cat": "vuln",
       "title": "CrowdStrike’s AI SOC vision evolves as agentic uncertainty adds new twist",
       "url": "https://www.csoonline.com/article/4244299/crowdstrikes-ai-soc-vision-evolves-as-agentic-uncertainty-adds-new-twist.html",
       "source": "CSO Online",
@@ -28,20 +28,36 @@
       "why": "“The software we use has become an actor,” declared CrowdStrike President Michael Sentonas in his address on the dangers and opportunity of agentic AI at the company’s Fal.Con conference in September."
     },
     {
-      "cat": "industry",
-      "title": "Binance heist is stark example of AI governance gaps and basic security failures",
-      "url": "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html",
+      "cat": "vuln",
+      "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
+      "url": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
       "source": "CSO Online",
-      "date": "2026-11-05",
-      "why": "A chain of avoidable technical and human security failures enabled the largest crypto heist on record, the theft of approximately $6.34 billion from Binance ."
+      "date": "2026-11-06",
+      "why": "A memory-safety flaw in CPython can allow malicious AI model templates to escape code sandboxes and execute arbitrary code inside inference servers, according to security researchers at RunSybil."
     },
     {
       "cat": "exposure",
-      "title": "OpenAI’s GPT-6 Cyber ups the ante on vulnerability discovery",
-      "url": "https://www.csoonline.com/article/4244911/openais-gpt-6-cyber-ups-the-ante-on-vulnerability-discovery.html",
-      "source": "CSO Online",
-      "date": "2026-11-05",
-      "why": "OpenAI is introducing GPT-6 Cyber, a restricted access model that the company calls its most capable and aligned cybersecurity model yet, “built to help security researchers identify and validate exploitable…"
+      "title": "An average of 8 minutes is all hackers need to log in with stolen credentials",
+      "url": "https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/",
+      "source": "Help Net Security",
+      "date": "2026-11-09",
+      "why": "Attackers used stolen credentials to log in an average of eight minutes after infection across 27 confirmed infostealer cases, according to a report from Elastic Security Threat Command."
+    },
+    {
+      "cat": "threat",
+      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "why": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week."
+    },
+    {
+      "cat": "threat",
+      "title": "Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million",
+      "url": "https://www.helpnetsecurity.com/2026/11/09/deepfake-ceo-fraud-129-million-indictment/",
+      "source": "Help Net Security",
+      "date": "2026-11-09",
+      "why": "Three men allegedly used deepfakes of company CEOs and law firm attorneys to trick employees into wiring more than $129 million to accounts the group controlled, the Justice Department said."
     },
     {
       "cat": "vuln",
@@ -52,36 +68,20 @@
       "why": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws."
     },
     {
+      "cat": "exposure",
+      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+      "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "source": "The Register",
+      "date": "2026-11-09",
+      "why": "Fixes are arriving faster than new bug reports for one major Linux project"
+    },
+    {
       "cat": "threat",
       "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
       "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
       "source": "The Hacker News",
       "date": "2026-11-05",
       "why": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services,…"
-    },
-    {
-      "cat": "vuln",
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "why": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT."
-    },
-    {
-      "cat": "threat",
-      "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-      "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
-      "source": "The Register",
-      "date": "2026-11-05",
-      "why": "From EOP to RCE in six simple steps"
-    },
-    {
-      "cat": "vuln",
-      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06",
-      "why": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet."
     }
   ]
 }
