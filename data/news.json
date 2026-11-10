@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-09",
-  "window": "Stories from 4 to 9 November 2026",
-  "updated": "Updated 9 November 2026, 13:52 GMT",
+  "date": "2026-11-10",
+  "window": "Stories from 5 to 10 November 2026",
+  "updated": "Updated 10 November 2026, 13:27 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -12,6 +12,30 @@
       "why": "Defensive security agility reflects an organization’s potential to rapidly detect, adapt, and respond to evolving cyber threats and vulnerabilities without disrupting core operations."
     },
     {
+      "cat": "vuln",
+      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+      "source": "SecurityWeek",
+      "date": "2026-11-10",
+      "why": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests."
+    },
+    {
+      "cat": "industry",
+      "title": "Anthropic sharpens AI coding and security capabilities with Mythos 5.2",
+      "url": "https://www.csoonline.com/article/4246688/anthropic-sharpens-ai-coding-and-security-capabilities-with-mythos-5-2.html",
+      "source": "CSO Online",
+      "date": "2026-11-10",
+      "why": "Anthropic has introduced Claude Fable 5.2 and Mythos 5.2, claiming significant improvements in handling complex software engineering tasks while cutting API prices by 20% compared with the previous versions."
+    },
+    {
+      "cat": "exposure",
+      "title": "What a security leader should tell the CEO about leaked credentials",
+      "url": "https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/",
+      "source": "Help Net Security",
+      "date": "2026-11-10",
+      "why": "In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for security leaders and boards."
+    },
+    {
       "cat": "exposure",
       "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
       "url": "https://www.csoonline.com/article/4245109/debian-ubuntu-patch-apt-flaw-that-could-hand-attackers-root.html",
@@ -20,68 +44,44 @@
       "why": "Linux administrators’ trust in package managers is being tested by a newly disclosed vulnerability in APT, the package management system used by Debian, Ubuntu, and their derivatives, that could allow attackers to…"
     },
     {
-      "cat": "vuln",
-      "title": "CrowdStrike’s AI SOC vision evolves as agentic uncertainty adds new twist",
-      "url": "https://www.csoonline.com/article/4244299/crowdstrikes-ai-soc-vision-evolves-as-agentic-uncertainty-adds-new-twist.html",
-      "source": "CSO Online",
-      "date": "2026-11-04",
-      "why": "“The software we use has become an actor,” declared CrowdStrike President Michael Sentonas in his address on the dangers and opportunity of agentic AI at the company’s Fal.Con conference in September."
-    },
-    {
-      "cat": "vuln",
-      "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
-      "url": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
-      "source": "CSO Online",
-      "date": "2026-11-06",
-      "why": "A memory-safety flaw in CPython can allow malicious AI model templates to escape code sandboxes and execute arbitrary code inside inference servers, according to security researchers at RunSybil."
-    },
-    {
       "cat": "exposure",
-      "title": "An average of 8 minutes is all hackers need to log in with stolen credentials",
-      "url": "https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/",
-      "source": "Help Net Security",
-      "date": "2026-11-09",
-      "why": "Attackers used stolen credentials to log in an average of eight minutes after infection across 27 confirmed infostealer cases, according to a report from Elastic Security Threat Command."
-    },
-    {
-      "cat": "threat",
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09",
-      "why": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week."
-    },
-    {
-      "cat": "threat",
-      "title": "Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million",
-      "url": "https://www.helpnetsecurity.com/2026/11/09/deepfake-ceo-fraud-129-million-indictment/",
-      "source": "Help Net Security",
-      "date": "2026-11-09",
-      "why": "Three men allegedly used deepfakes of company CEOs and law firm attorneys to trick employees into wiring more than $129 million to accounts the group controlled, the Justice Department said."
+      "title": "Microsoft’s AI bug hunter finds Rust flaw that went undetected for nearly 11 years",
+      "url": "https://www.csoonline.com/article/4246787/microsofts-ai-bug-hunter-finds-rust-flaw-that-went-undetected-for-nearly-11-years.html",
+      "source": "CSO Online",
+      "date": "2026-11-10",
+      "why": "Microsoft researchers have uncovered a memory-safety bug in Rust’s standard library that had gone undetected for nearly 11 years, alongside other flaws that can trigger undefined behavior even in applications written…"
     },
     {
       "cat": "vuln",
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "title": "SHARED INTEL Q&A: AI tools slip open-source snippets past SBOMs, hiding bugs and license risks",
+      "url": "https://securityboulevard.com/2026/11/shared-intel-qa-ai-tools-slip-open-source-snippets-past-sboms-hiding-bugs-and-license-risks/",
+      "source": "Security Boulevard",
+      "date": "2026-11-10",
+      "why": "SHARED INTEL Q&A: AI tools slip open-source snippets past SBOMs, hiding bugs and license risks By Byron V."
+    },
+    {
+      "cat": "threat",
+      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+      "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+      "source": "Dark Reading",
+      "date": "2026-11-09",
+      "why": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine."
+    },
+    {
+      "cat": "vuln",
+      "title": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior",
+      "url": "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/",
+      "source": "Help Net Security",
+      "date": "2026-11-10",
+      "why": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2. The two versions share an underlying model, with stricter safeguards for cybersecurity and biology tasks in the broadly available Fable."
+    },
+    {
+      "cat": "threat",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
       "source": "BleepingComputer",
-      "date": "2026-11-06",
-      "why": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws."
-    },
-    {
-      "cat": "exposure",
-      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
-      "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-      "source": "The Register",
-      "date": "2026-11-09",
-      "why": "Fixes are arriving faster than new bug reports for one major Linux project"
-    },
-    {
-      "cat": "threat",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "why": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services,…"
+      "date": "2026-11-10",
+      "why": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider."
     }
   ]
 }
