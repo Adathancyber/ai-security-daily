@@ -1,87 +1,87 @@
 {
-  "date": "2026-11-10",
-  "window": "Stories from 5 to 10 November 2026",
-  "updated": "Updated 10 November 2026, 13:27 GMT",
+  "date": "2026-11-11",
+  "window": "Stories from 10 to 11 November 2026",
+  "updated": "Updated 11 November 2026, 12:42 GMT",
   "stories": [
     {
       "cat": "exposure",
-      "title": "7 tips for achieving defensive agility",
-      "url": "https://www.csoonline.com/article/4240628/7-tips-for-achieving-defensive-agility.html",
+      "title": "November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials",
+      "url": "https://www.csoonline.com/article/4247015/november-2026-patch-tuesday-63-critical-microsoft-fixes-plus-an-outlook-zero-day-that-allows-theft-of-hashed-credentials.html",
       "source": "CSO Online",
-      "date": "2026-11-09",
-      "why": "Defensive security agility reflects an organization’s potential to rapidly detect, adapt, and respond to evolving cyber threats and vulnerabilities without disrupting core operations."
-    },
-    {
-      "cat": "vuln",
-      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-      "source": "SecurityWeek",
-      "date": "2026-11-10",
-      "why": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests."
-    },
-    {
-      "cat": "industry",
-      "title": "Anthropic sharpens AI coding and security capabilities with Mythos 5.2",
-      "url": "https://www.csoonline.com/article/4246688/anthropic-sharpens-ai-coding-and-security-capabilities-with-mythos-5-2.html",
-      "source": "CSO Online",
-      "date": "2026-11-10",
-      "why": "Anthropic has introduced Claude Fable 5.2 and Mythos 5.2, claiming significant improvements in handling complex software engineering tasks while cutting API prices by 20% compared with the previous versions."
+      "date": "2026-11-11",
+      "why": "A currently exploited zero-day vulnerability that can let attackers steal hashed Outlook NTLM credentials is among the 1,094 holes Microsoft fixed in its November Patch Tuesday releases."
     },
     {
       "cat": "exposure",
-      "title": "What a security leader should tell the CEO about leaked credentials",
-      "url": "https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/",
-      "source": "Help Net Security",
-      "date": "2026-11-10",
-      "why": "In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked credentials and personal liability for security leaders and boards."
+      "title": "Finite State Raises $27 Million to Help Device Makers Fight ‘Vulnpocalypse’ with AI-Powered Product Security",
+      "url": "https://www.csoonline.com/article/4247149/finite-state-raises-27-million-to-help-device-makers-fight-vulnpocalypse-with-ai-powered-product-security.html",
+      "source": "CSO Online",
+      "date": "2026-11-11",
+      "why": "Funding Will Scale Finite State’s Autonomous Platform and International Expansion as Manufacturers Face a Surge of AI-Discovered Flaws and New Global Security Mandates Finite State , a leader in product security and…"
     },
     {
       "cat": "exposure",
-      "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
-      "url": "https://www.csoonline.com/article/4245109/debian-ubuntu-patch-apt-flaw-that-could-hand-attackers-root.html",
+      "title": "What will it take to make VulnOps a reality?",
+      "url": "https://www.csoonline.com/article/4244924/what-will-it-take-to-make-vulnops-a-reality.html",
       "source": "CSO Online",
-      "date": "2026-11-05",
-      "why": "Linux administrators’ trust in package managers is being tested by a newly disclosed vulnerability in APT, the package management system used by Debian, Ubuntu, and their derivatives, that could allow attackers to…"
-    },
-    {
-      "cat": "exposure",
-      "title": "Microsoft’s AI bug hunter finds Rust flaw that went undetected for nearly 11 years",
-      "url": "https://www.csoonline.com/article/4246787/microsofts-ai-bug-hunter-finds-rust-flaw-that-went-undetected-for-nearly-11-years.html",
-      "source": "CSO Online",
-      "date": "2026-11-10",
-      "why": "Microsoft researchers have uncovered a memory-safety bug in Rust’s standard library that had gone undetected for nearly 11 years, alongside other flaws that can trigger undefined behavior even in applications written…"
-    },
-    {
-      "cat": "vuln",
-      "title": "SHARED INTEL Q&A: AI tools slip open-source snippets past SBOMs, hiding bugs and license risks",
-      "url": "https://securityboulevard.com/2026/11/shared-intel-qa-ai-tools-slip-open-source-snippets-past-sboms-hiding-bugs-and-license-risks/",
-      "source": "Security Boulevard",
-      "date": "2026-11-10",
-      "why": "SHARED INTEL Q&A: AI tools slip open-source snippets past SBOMs, hiding bugs and license risks By Byron V."
+      "date": "2026-11-11",
+      "why": "Just over a year ago, before advanced AI models began discovering software vulnerabilities at a nearly unmanageable scale in the so-called vulnpocalypse, three industry experts pioneered the concept of “VulnOps.”…"
     },
     {
       "cat": "threat",
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-      "source": "Dark Reading",
-      "date": "2026-11-09",
-      "why": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine."
-    },
-    {
-      "cat": "vuln",
-      "title": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior",
-      "url": "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/",
-      "source": "Help Net Security",
-      "date": "2026-11-10",
-      "why": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2. The two versions share an underlying model, with stricter safeguards for cybersecurity and biology tasks in the broadly available Fable."
+      "title": "Rewriting less than 10 neurons in an LLM can turn it into a sleeper backdoor",
+      "url": "https://www.csoonline.com/article/4247354/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor.html",
+      "source": "CSO Online",
+      "date": "2026-11-11",
+      "why": "Microsoft researchers have found that rewriting fewer than 10 rarely used neurons in an open-weight AI model can turn any agent built on it into a sleeper backdoor that runs an attacker’s commands on cue, with no…"
     },
     {
       "cat": "threat",
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "why": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday."
+    },
+    {
+      "cat": "threat",
+      "title": "Microsoft researchers demonstrate hidden backdoor technique for AI agents",
+      "url": "https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/",
+      "source": "Help Net Security",
+      "date": "2026-11-11",
+      "why": "Microsoft researchers have demonstrated how small changes to an AI model can implant a hidden backdoor, causing an agent to execute an attacker’s command when a specific trigger appears."
+    },
+    {
+      "cat": "threat",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
       "source": "BleepingComputer",
       "date": "2026-11-10",
-      "why": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider."
+      "why": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…"
+    },
+    {
+      "cat": "threat",
+      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
+      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+      "source": "The Record",
+      "date": "2026-11-10",
+      "why": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack."
+    },
+    {
+      "cat": "threat",
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "source": "Dark Reading",
+      "date": "2026-11-10",
+      "why": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries."
+    },
+    {
+      "cat": "threat",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "why": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown."
     }
   ]
 }
