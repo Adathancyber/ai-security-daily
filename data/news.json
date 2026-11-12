@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-11",
-  "window": "Stories from 10 to 11 November 2026",
-  "updated": "Updated 11 November 2026, 12:42 GMT",
+  "date": "2026-11-12",
+  "window": "Stories from 10 to 12 November 2026",
+  "updated": "Updated 12 November 2026, 13:44 GMT",
   "stories": [
+    {
+      "cat": "vuln",
+      "title": "AI found Linux kernel bugs that remained undetected for decades",
+      "url": "https://www.csoonline.com/article/4247815/ai-found-linux-kernel-bugs-that-remained-undetected-for-decades.html",
+      "source": "CSO Online",
+      "date": "2026-11-12",
+      "why": "A Microsoft research project combining AI agents with human security researchers uncovered 59 Linux kernel vulnerabilities, including bugs that had survived in production code for more than 20 years."
+    },
     {
       "cat": "exposure",
       "title": "November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials",
@@ -21,19 +29,43 @@
     },
     {
       "cat": "exposure",
-      "title": "What will it take to make VulnOps a reality?",
-      "url": "https://www.csoonline.com/article/4244924/what-will-it-take-to-make-vulnops-a-reality.html",
+      "title": "The developer laptop just became production. Now what?",
+      "url": "https://www.csoonline.com/article/4247458/the-developer-laptop-just-became-production-now-what.html",
       "source": "CSO Online",
+      "date": "2026-11-12",
+      "why": "For decades, enterprise software development relied on an assumption that developers could experiment relatively safely because there were safeguards between their work and production."
+    },
+    {
+      "cat": "exposure",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
       "date": "2026-11-11",
-      "why": "Just over a year ago, before advanced AI models began discovering software vulnerabilities at a nearly unmanageable scale in the so-called vulnpocalypse, three industry experts pioneered the concept of “VulnOps.”…"
+      "why": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces."
+    },
+    {
+      "cat": "industry",
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "source": "Dark Reading",
+      "date": "2026-11-12",
+      "why": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
+    },
+    {
+      "cat": "industry",
+      "title": "GitHub Agentic Autofix and the question of who owns a bad AI patch",
+      "url": "https://www.helpnetsecurity.com/2026/11/12/marcelo-oliveira-github-agentic-autofix/",
+      "source": "Help Net Security",
+      "date": "2026-11-12",
+      "why": "In this Help Net Security interview, Marcelo Oliveira, VP of Product Management at GitHub, talks about who is accountable when an AI-generated patch fixes one flaw and introduces another."
     },
     {
       "cat": "threat",
-      "title": "Rewriting less than 10 neurons in an LLM can turn it into a sleeper backdoor",
-      "url": "https://www.csoonline.com/article/4247354/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor.html",
-      "source": "CSO Online",
-      "date": "2026-11-11",
-      "why": "Microsoft researchers have found that rewriting fewer than 10 rarely used neurons in an open-weight AI model can turn any agent built on it into a sleeper backdoor that runs an attacker’s commands on cue, with no…"
+      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+      "source": "SecurityWeek",
+      "date": "2026-11-12",
+      "why": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable."
     },
     {
       "cat": "threat",
@@ -44,44 +76,12 @@
       "why": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday."
     },
     {
-      "cat": "threat",
-      "title": "Microsoft researchers demonstrate hidden backdoor technique for AI agents",
-      "url": "https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/",
-      "source": "Help Net Security",
-      "date": "2026-11-11",
-      "why": "Microsoft researchers have demonstrated how small changes to an AI model can implant a hidden backdoor, causing an agent to execute an attacker’s command when a specific trigger appears."
-    },
-    {
-      "cat": "threat",
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "why": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…"
-    },
-    {
-      "cat": "threat",
-      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-      "source": "The Record",
-      "date": "2026-11-10",
-      "why": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack."
-    },
-    {
-      "cat": "threat",
-      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
-      "source": "Dark Reading",
-      "date": "2026-11-10",
-      "why": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries."
-    },
-    {
-      "cat": "threat",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "source": "The Hacker News",
-      "date": "2026-11-11",
-      "why": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown."
+      "cat": "exposure",
+      "title": "Security Teams Must Shift from Patching to Mitigation in the AI Era",
+      "url": "https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-12",
+      "why": "Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset"
     }
   ]
 }
