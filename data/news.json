@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-12",
-  "window": "Stories from 10 to 12 November 2026",
-  "updated": "Updated 12 November 2026, 13:44 GMT",
+  "date": "2026-11-13",
+  "window": "Stories from 10 to 13 November 2026",
+  "updated": "Updated 13 November 2026, 13:05 GMT",
   "stories": [
     {
       "cat": "vuln",
@@ -10,6 +10,14 @@
       "source": "CSO Online",
       "date": "2026-11-12",
       "why": "A Microsoft research project combining AI agents with human security researchers uncovered 59 Linux kernel vulnerabilities, including bugs that had survived in production code for more than 20 years."
+    },
+    {
+      "cat": "exposure",
+      "title": "Palo Alto tracks a massive Chinese AI attack that sadly lives up to industry fears",
+      "url": "https://www.csoonline.com/article/4247565/palo-alto-tracks-a-massive-chinese-ai-attack-that-sadly-lives-up-to-industry-fears.html",
+      "source": "CSO Online",
+      "date": "2026-11-12",
+      "why": "Palo Alto Networks Unit 42 is reporting today that it has tracked a massive China-based attack leveraging the open-source AI penetration testing framework Cairn to autonomously conduct 25 operations against at least 19…"
     },
     {
       "cat": "exposure",
@@ -28,20 +36,20 @@
       "why": "Funding Will Scale Finite State’s Autonomous Platform and International Expansion as Manufacturers Face a Surge of AI-Discovered Flaws and New Global Security Mandates Finite State , a leader in product security and…"
     },
     {
-      "cat": "exposure",
-      "title": "The developer laptop just became production. Now what?",
-      "url": "https://www.csoonline.com/article/4247458/the-developer-laptop-just-became-production-now-what.html",
-      "source": "CSO Online",
-      "date": "2026-11-12",
-      "why": "For decades, enterprise software development relied on an assumption that developers could experiment relatively safely because there were safeguards between their work and production."
+      "cat": "vuln",
+      "title": "Your pinned MCP server may not be as pinned as you think",
+      "url": "https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/",
+      "source": "Help Net Security",
+      "date": "2026-11-13",
+      "why": "An MCP server configured to run one fixed release on an administrator’s workstation ran with 15 different sets of dependencies over five weeks, with its configuration untouched."
     },
     {
-      "cat": "exposure",
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "source": "BleepingComputer",
-      "date": "2026-11-11",
-      "why": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces."
+      "cat": "vuln",
+      "title": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes",
+      "url": "https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/",
+      "source": "Help Net Security",
+      "date": "2026-11-13",
+      "why": "OpenAI is bringing AI agents into more of the software security process with Daybreak, pairing web application penetration testing with tools that investigate vulnerabilities and develop fixes."
     },
     {
       "cat": "industry",
@@ -52,28 +60,20 @@
       "why": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
     },
     {
-      "cat": "industry",
-      "title": "GitHub Agentic Autofix and the question of who owns a bad AI patch",
-      "url": "https://www.helpnetsecurity.com/2026/11/12/marcelo-oliveira-github-agentic-autofix/",
-      "source": "Help Net Security",
-      "date": "2026-11-12",
-      "why": "In this Help Net Security interview, Marcelo Oliveira, VP of Product Management at GitHub, talks about who is accountable when an AI-generated patch fixes one flaw and introduces another."
-    },
-    {
-      "cat": "threat",
-      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-12",
-      "why": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable."
-    },
-    {
       "cat": "threat",
       "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
       "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
       "source": "The Hacker News",
       "date": "2026-11-10",
       "why": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday."
+    },
+    {
+      "cat": "threat",
+      "title": "AI Set to Revolutionize Ransomware Following “Stagnant” Few Years",
+      "url": "https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-13",
+      "why": "TrendAI’s Bob McArdle said ransomware techniques will change significantly in the next year, with AI making attacks more dangerous and profitable"
     },
     {
       "cat": "exposure",
