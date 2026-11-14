@@ -1,8 +1,24 @@
 {
-  "date": "2026-11-13",
-  "window": "Stories from 10 to 13 November 2026",
-  "updated": "Updated 13 November 2026, 13:05 GMT",
+  "date": "2026-11-14",
+  "window": "Stories from 10 to 14 November 2026",
+  "updated": "Updated 14 November 2026, 12:09 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "How AI is changing the nature of cyberattacks",
+      "url": "https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html",
+      "source": "CSO Online",
+      "date": "2026-11-13",
+      "why": "AI may be helping cyberattackers increase the speed and scale of their operations, but it is not yet changing their core objectives or the techniques they employ as part of their attack chains."
+    },
+    {
+      "cat": "exposure",
+      "title": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers",
+      "url": "https://www.csoonline.com/article/4248693/the-firewall-becomes-the-foothold-attackers-turn-check-point-gateways-against-customers.html",
+      "source": "CSO Online",
+      "date": "2026-11-14",
+      "why": "A firewall is intended to be a boundary attackers can’t cross."
+    },
     {
       "cat": "vuln",
       "title": "AI found Linux kernel bugs that remained undetected for decades",
@@ -20,20 +36,20 @@
       "why": "Palo Alto Networks Unit 42 is reporting today that it has tracked a massive China-based attack leveraging the open-source AI penetration testing framework Cairn to autonomously conduct 25 operations against at least 19…"
     },
     {
-      "cat": "exposure",
-      "title": "November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials",
-      "url": "https://www.csoonline.com/article/4247015/november-2026-patch-tuesday-63-critical-microsoft-fixes-plus-an-outlook-zero-day-that-allows-theft-of-hashed-credentials.html",
-      "source": "CSO Online",
-      "date": "2026-11-11",
-      "why": "A currently exploited zero-day vulnerability that can let attackers steal hashed Outlook NTLM credentials is among the 1,094 holes Microsoft fixed in its November Patch Tuesday releases."
+      "cat": "threat",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13",
+      "why": "The U.S."
     },
     {
       "cat": "exposure",
-      "title": "Finite State Raises $27 Million to Help Device Makers Fight ‘Vulnpocalypse’ with AI-Powered Product Security",
-      "url": "https://www.csoonline.com/article/4247149/finite-state-raises-27-million-to-help-device-makers-fight-vulnpocalypse-with-ai-powered-product-security.html",
-      "source": "CSO Online",
-      "date": "2026-11-11",
-      "why": "Funding Will Scale Finite State’s Autonomous Platform and International Expansion as Manufacturers Face a Surge of AI-Discovered Flaws and New Global Security Mandates Finite State , a leader in product security and…"
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13",
+      "why": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts."
     },
     {
       "cat": "vuln",
@@ -66,22 +82,6 @@
       "source": "The Hacker News",
       "date": "2026-11-10",
       "why": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday."
-    },
-    {
-      "cat": "threat",
-      "title": "AI Set to Revolutionize Ransomware Following “Stagnant” Few Years",
-      "url": "https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-11-13",
-      "why": "TrendAI’s Bob McArdle said ransomware techniques will change significantly in the next year, with AI making attacks more dangerous and profitable"
-    },
-    {
-      "cat": "exposure",
-      "title": "Security Teams Must Shift from Patching to Mitigation in the AI Era",
-      "url": "https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-11-12",
-      "why": "Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset"
     }
   ]
 }
