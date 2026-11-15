@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
-  "window": "Stories from 10 to 14 November 2026",
-  "updated": "Updated 14 November 2026, 12:09 GMT",
+  "date": "2026-11-15",
+  "window": "Stories from 11 to 15 November 2026",
+  "updated": "Updated 15 November 2026, 12:42 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -29,11 +29,19 @@
     },
     {
       "cat": "exposure",
-      "title": "Palo Alto tracks a massive Chinese AI attack that sadly lives up to industry fears",
-      "url": "https://www.csoonline.com/article/4247565/palo-alto-tracks-a-massive-chinese-ai-attack-that-sadly-lives-up-to-industry-fears.html",
+      "title": "November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials",
+      "url": "https://www.csoonline.com/article/4247015/november-2026-patch-tuesday-63-critical-microsoft-fixes-plus-an-outlook-zero-day-that-allows-theft-of-hashed-credentials.html",
       "source": "CSO Online",
-      "date": "2026-11-12",
-      "why": "Palo Alto Networks Unit 42 is reporting today that it has tracked a massive China-based attack leveraging the open-source AI penetration testing framework Cairn to autonomously conduct 25 operations against at least 19…"
+      "date": "2026-11-11",
+      "why": "A currently exploited zero-day vulnerability that can let attackers steal hashed Outlook NTLM credentials is among the 1,094 holes Microsoft fixed in its November Patch Tuesday releases."
+    },
+    {
+      "cat": "exposure",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "source": "The Hacker News",
+      "date": "2026-11-15",
+      "why": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI."
     },
     {
       "cat": "threat",
@@ -52,6 +60,14 @@
       "why": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts."
     },
     {
+      "cat": "threat",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "date": "2026-11-14",
+      "why": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI."
+    },
+    {
       "cat": "vuln",
       "title": "Your pinned MCP server may not be as pinned as you think",
       "url": "https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/",
@@ -60,28 +76,12 @@
       "why": "An MCP server configured to run one fixed release on an administrator’s workstation ran with 15 different sets of dependencies over five weeks, with its configuration untouched."
     },
     {
-      "cat": "vuln",
-      "title": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes",
-      "url": "https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/",
-      "source": "Help Net Security",
-      "date": "2026-11-13",
-      "why": "OpenAI is bringing AI agents into more of the software security process with Daybreak, pairing web application penetration testing with tools that investigate vulnerabilities and develop fixes."
-    },
-    {
       "cat": "industry",
       "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
       "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
       "source": "Dark Reading",
       "date": "2026-11-12",
       "why": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
-    },
-    {
-      "cat": "threat",
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "why": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday."
     }
   ]
 }
