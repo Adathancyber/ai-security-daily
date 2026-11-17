@@ -1,8 +1,24 @@
 {
-  "date": "2026-11-16",
-  "window": "Stories from 13 to 16 November 2026",
-  "updated": "Updated 16 November 2026, 13:36 GMT",
+  "date": "2026-11-17",
+  "window": "Stories from 13 to 17 November 2026",
+  "updated": "Updated 17 November 2026, 14:21 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "Google spots the first hacker AI system that finds and exploits flaws autonomously",
+      "url": "https://www.csoonline.com/article/4249595/google-spots-the-first-hacker-ai-system-that-finds-and-exploits-flaws-autonomously.html",
+      "source": "CSO Online",
+      "date": "2026-11-17",
+      "why": "Google said it had identified a hacker-operated AI framework designed to discover software vulnerabilities and execute exploits without human intervention, marking the first time its researchers had observed such a…"
+    },
+    {
+      "cat": "exposure",
+      "title": "ConnectSecure brings adaptive AI testing to vulnerability management",
+      "url": "https://www.helpnetsecurity.com/2026/11/17/connectsecure-agentic-ai-penetration-testing/",
+      "source": "Help Net Security",
+      "date": "2026-11-17",
+      "why": "ConnectSecure has announced Agentic AI Penetration Testing, a new capability designed to help managed service providers (MSPs) and enterprise security teams better understand which vulnerabilities may be exploitable…"
+    },
     {
       "cat": "exposure",
       "title": "How AI is changing the nature of cyberattacks",
@@ -10,6 +26,14 @@
       "source": "CSO Online",
       "date": "2026-11-13",
       "why": "AI may be helping cyberattackers increase the speed and scale of their operations, but it is not yet changing their core objectives or the techniques they employ as part of their attack chains."
+    },
+    {
+      "cat": "exposure",
+      "title": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
+      "url": "https://www.csoonline.com/article/4249653/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public-2.html",
+      "source": "CSO Online",
+      "date": "2026-11-17",
+      "why": "California Attorney General Rob Bonta has sued OpenAI, alleging the company has lost control of its autonomous AI agents more than 80 times during testing and misled the public about how safely it develops its models."
     },
     {
       "cat": "exposure",
@@ -21,67 +45,43 @@
     },
     {
       "cat": "exposure",
-      "title": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers",
-      "url": "https://www.csoonline.com/article/4248693/the-firewall-becomes-the-foothold-attackers-turn-check-point-gateways-against-customers.html",
-      "source": "CSO Online",
-      "date": "2026-11-14",
-      "why": "A firewall is intended to be a boundary attackers can’t cross."
-    },
-    {
-      "cat": "threat",
-      "title": "The benign true positive: When trusted AI agents look like attackers",
-      "url": "https://www.csoonline.com/article/4248451/the-benign-true-positive-when-trusted-ai-agents-look-like-attackers.html",
-      "source": "CSO Online",
-      "date": "2026-11-16",
-      "why": "A coding agent opens hundreds of files, launches command-line tools and connects to an internal service to complete a task."
-    },
-    {
-      "cat": "threat",
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16",
-      "why": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records."
-    },
-    {
-      "cat": "vuln",
-      "title": "AI uncovers flaws in discontinued devices with no vendor left to patch them",
-      "url": "https://www.helpnetsecurity.com/2026/11/16/forescout-ai-models-vulnerability-research/",
+      "title": "Google finds AI agent writing and launching exploits with no human in the loop",
+      "url": "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/",
       "source": "Help Net Security",
-      "date": "2026-11-16",
-      "why": "Forescout researchers built a tool to test if generally available AI models could find security flaws on a limited budget."
-    },
-    {
-      "cat": "exposure",
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "source": "The Hacker News",
-      "date": "2026-11-15",
-      "why": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI."
-    },
-    {
-      "cat": "threat",
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "source": "The Hacker News",
-      "date": "2026-11-13",
-      "why": "The U.S."
-    },
-    {
-      "cat": "industry",
-      "title": "FBI Highlights Growing Abuse of AI-Driven Pentesting Framework ARTEX",
-      "url": "https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-11-16",
-      "why": "The FBI warns that threat actors are increasingly using open-source AI pentesting tool ARTEX to launch fast, large-scale intrusions worldwide"
+      "date": "2026-11-17",
+      "why": "Threat actors have started letting AI agents carry out whole stages of live intrusions, and at least one operation no longer needs a human to turn a newly released patch into a working attack, Google Threat…"
     },
     {
       "cat": "vuln",
-      "title": "AI Cuts Vulnerability Discovery from Nine Months to 90 Hours",
-      "url": "https://www.infosecurity-magazine.com/news/ai-cut-vulnerability-discover-nine/",
-      "source": "Infosecurity Magazine",
+      "title": "Rein Security Turns Prompt Injection Into A GTA-Style Game Where AI Agents Go Rogue",
+      "url": "https://securityboulevard.com/2026/11/rein-security-turns-prompt-injection-into-a-gta-style-game-where-ai-agents-go-rogue/",
+      "source": "Security Boulevard",
+      "date": "2026-11-17",
+      "why": "A single instruction can change the behavior of an artificial intelligence system. In the wrong circumstances, that instruction can become the starting point for a much larger security problem."
+    },
+    {
+      "cat": "threat",
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "source": "Dark Reading",
       "date": "2026-11-16",
-      "why": "Forescout report claims to have found 66 new flaws in just 90 hours using AI"
+      "why": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations."
+    },
+    {
+      "cat": "threat",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "why": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN,…"
+    },
+    {
+      "cat": "threat",
+      "title": "SpyCloud’s 2027 Forecast: Attackers Will Exploit Trusted Access, From Hijacked Sessions to AI Agents",
+      "url": "https://securityboulevard.com/2026/11/spyclouds-2027-forecast-attackers-will-exploit-trusted-access-from-hijacked-sessions-to-ai-agents/",
+      "source": "Security Boulevard",
+      "date": "2026-11-17",
+      "why": "Austin, TX, USA, 17th November 2026, CyberNewswire"
     }
   ]
 }
