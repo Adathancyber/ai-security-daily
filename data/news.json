@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-17",
-  "window": "Stories from 13 to 17 November 2026",
-  "updated": "Updated 17 November 2026, 14:21 GMT",
+  "date": "2026-11-18",
+  "window": "Stories from 13 to 18 November 2026",
+  "updated": "Updated 18 November 2026, 13:55 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -13,19 +13,19 @@
     },
     {
       "cat": "exposure",
-      "title": "ConnectSecure brings adaptive AI testing to vulnerability management",
-      "url": "https://www.helpnetsecurity.com/2026/11/17/connectsecure-agentic-ai-penetration-testing/",
-      "source": "Help Net Security",
-      "date": "2026-11-17",
-      "why": "ConnectSecure has announced Agentic AI Penetration Testing, a new capability designed to help managed service providers (MSPs) and enterprise security teams better understand which vulnerabilities may be exploitable…"
-    },
-    {
-      "cat": "exposure",
       "title": "How AI is changing the nature of cyberattacks",
       "url": "https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html",
       "source": "CSO Online",
       "date": "2026-11-13",
       "why": "AI may be helping cyberattackers increase the speed and scale of their operations, but it is not yet changing their core objectives or the techniques they employ as part of their attack chains."
+    },
+    {
+      "cat": "vuln",
+      "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
+      "url": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
+      "source": "CSO Online",
+      "date": "2026-11-17",
+      "why": "AI-assisted vulnerability discovery has made it untenable for software vendors to sit on privately reported flaws for months, and Google Project Zero is responding by shrinking its vulnerability disclosure deadline…"
     },
     {
       "cat": "exposure",
@@ -36,28 +36,12 @@
       "why": "California Attorney General Rob Bonta has sued OpenAI, alleging the company has lost control of its autonomous AI agents more than 80 times during testing and misled the public about how safely it develops its models."
     },
     {
-      "cat": "exposure",
-      "title": "AI-written patches are becoming attack maps for hackers",
-      "url": "https://www.csoonline.com/article/4248687/ai-written-patches-are-becoming-attack-maps-for-hackers.html",
-      "source": "CSO Online",
-      "date": "2026-11-16",
-      "why": "This summer, the maintainers of vm2, an open-source JavaScript sandboxing library with 1 million downloads per week, shipped fixes for 34 separate sandbox-escape vulnerabilities and Anthropic’s Claude co-wrote 19 of…"
-    },
-    {
-      "cat": "exposure",
-      "title": "Google finds AI agent writing and launching exploits with no human in the loop",
-      "url": "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/",
-      "source": "Help Net Security",
-      "date": "2026-11-17",
-      "why": "Threat actors have started letting AI agents carry out whole stages of live intrusions, and at least one operation no longer needs a human to turn a newly released patch into a working attack, Google Threat…"
-    },
-    {
       "cat": "vuln",
-      "title": "Rein Security Turns Prompt Injection Into A GTA-Style Game Where AI Agents Go Rogue",
-      "url": "https://securityboulevard.com/2026/11/rein-security-turns-prompt-injection-into-a-gta-style-game-where-ai-agents-go-rogue/",
-      "source": "Security Boulevard",
-      "date": "2026-11-17",
-      "why": "A single instruction can change the behavior of an artificial intelligence system. In the wrong circumstances, that instruction can become the starting point for a much larger security problem."
+      "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
+      "url": "https://therecord.media/cisa-issues-java4shell-alert",
+      "source": "The Record",
+      "date": "2026-11-18",
+      "why": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker…"
     },
     {
       "cat": "threat",
@@ -77,11 +61,27 @@
     },
     {
       "cat": "threat",
-      "title": "SpyCloud’s 2027 Forecast: Attackers Will Exploit Trusted Access, From Hijacked Sessions to AI Agents",
-      "url": "https://securityboulevard.com/2026/11/spyclouds-2027-forecast-attackers-will-exploit-trusted-access-from-hijacked-sessions-to-ai-agents/",
-      "source": "Security Boulevard",
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "source": "Dark Reading",
       "date": "2026-11-17",
-      "why": "Austin, TX, USA, 17th November 2026, CyberNewswire"
+      "why": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
+    },
+    {
+      "cat": "threat",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "source": "The Hacker News",
+      "date": "2026-11-17",
+      "why": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram."
+    },
+    {
+      "cat": "exposure",
+      "title": "Linx Security extends identity governance to AI agent actions",
+      "url": "https://www.helpnetsecurity.com/2026/11/17/linx-security-agent-identity-control/",
+      "source": "Help Net Security",
+      "date": "2026-11-17",
+      "why": "Linx Security has announced four new capabilities that bring every agent under identity control, managed or unmanaged, in any gateway. Shadow AI Agent Detection finds the agents no one sanctioned."
     }
   ]
 }
