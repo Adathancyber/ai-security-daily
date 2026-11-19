@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-18",
-  "window": "Stories from 13 to 18 November 2026",
-  "updated": "Updated 18 November 2026, 13:55 GMT",
+  "date": "2026-11-19",
+  "window": "Stories from 13 to 19 November 2026",
+  "updated": "Updated 19 November 2026, 14:24 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "Vulnerability management: The cybersecurity industry is still solving the wrong problem",
+      "url": "https://www.csoonline.com/article/4250261/vulnerability-management-the-cybersecurity-industry-is-still-solving-the-wrong-problem.html",
+      "source": "CSO Online",
+      "date": "2026-11-19",
+      "why": "We have never been short of vulnerabilities. We have always struggled with remedial work. For decades, the cybersecurity industry has approached vulnerability management from the wrong end."
+    },
     {
       "cat": "exposure",
       "title": "Google spots the first hacker AI system that finds and exploits flaws autonomously",
@@ -10,6 +18,14 @@
       "source": "CSO Online",
       "date": "2026-11-17",
       "why": "Google said it had identified a hacker-operated AI framework designed to discover software vulnerabilities and execute exploits without human intervention, marking the first time its researchers had observed such a…"
+    },
+    {
+      "cat": "exposure",
+      "title": "AI unearths ‘internet breaker’ flaws in Nginx web server",
+      "url": "https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html",
+      "source": "CSO Online",
+      "date": "2026-11-18",
+      "why": "Nginx, the web server estimated to power a third of the internet, has shipped fixes for multiple vulnerabilities, including a critical unauthenticated remote code execution flaw that puts millions of websites at risk…"
     },
     {
       "cat": "exposure",
@@ -21,27 +37,19 @@
     },
     {
       "cat": "vuln",
-      "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
-      "url": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
-      "source": "CSO Online",
-      "date": "2026-11-17",
-      "why": "AI-assisted vulnerability discovery has made it untenable for software vendors to sit on privately reported flaws for months, and Google Project Zero is responding by shrinking its vulnerability disclosure deadline…"
-    },
-    {
-      "cat": "exposure",
-      "title": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
-      "url": "https://www.csoonline.com/article/4249653/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public-2.html",
-      "source": "CSO Online",
-      "date": "2026-11-17",
-      "why": "California Attorney General Rob Bonta has sued OpenAI, alleging the company has lost control of its autonomous AI agents more than 80 times during testing and misled the public about how safely it develops its models."
+      "title": "Indirect prompt injection via documents, email and RAG sources",
+      "url": "https://securityboulevard.com/2026/11/indirect-prompt-injection-via-documents-email-and-rag-sources/",
+      "source": "Security Boulevard",
+      "date": "2026-11-19",
+      "why": "Indirect prompt injection is one of the more subtle risks in AI-enabled workflows because the malicious instruction is hidden inside content the system is meant to trust."
     },
     {
       "cat": "vuln",
-      "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
-      "url": "https://therecord.media/cisa-issues-java4shell-alert",
-      "source": "The Record",
+      "title": "AI found more critical bugs in another widely used technology running 225M websites",
+      "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+      "source": "The Register",
       "date": "2026-11-18",
-      "why": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker…"
+      "why": "Open source NGINX joins patchapalooza"
     },
     {
       "cat": "threat",
@@ -52,36 +60,28 @@
       "why": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations."
     },
     {
-      "cat": "threat",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16",
-      "why": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN,…"
+      "cat": "vuln",
+      "title": "Four Days Early: Why AI-Found Vulnerabilities Demand Protection That’s Already On",
+      "url": "https://securityboulevard.com/2026/11/four-days-early-why-ai-found-vulnerabilities-demand-protection-thats-already-on/",
+      "source": "Security Boulevard",
+      "date": "2026-11-19",
+      "why": "In October 2026, attackers went after PHP2Shell four days before a fix existed. Nearly every WAF provider published a rule within about a day."
     },
     {
       "cat": "threat",
-      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-      "source": "Dark Reading",
-      "date": "2026-11-17",
-      "why": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18",
+      "why": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems."
     },
     {
       "cat": "threat",
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17",
-      "why": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram."
-    },
-    {
-      "cat": "exposure",
-      "title": "Linx Security extends identity governance to AI agent actions",
-      "url": "https://www.helpnetsecurity.com/2026/11/17/linx-security-agent-identity-control/",
-      "source": "Help Net Security",
-      "date": "2026-11-17",
-      "why": "Linx Security has announced four new capabilities that bring every agent under identity control, managed or unmanaged, in any gateway. Shadow AI Agent Detection finds the agents no one sanctioned."
+      "title": "Hackers Use ARTEX AI Agents to Automate Network Intrusions and Gain Privileged Access in Under 3 Hours",
+      "url": "https://securityboulevard.com/2026/11/hackers-use-artex-ai-agents-to-automate-network-intrusions-and-gain-privileged-access-in-under-3-hours/",
+      "source": "Security Boulevard",
+      "date": "2026-11-19",
+      "why": "IntroductionArtificial intelligence is changing the cybersecurity landscape, and attackers are increasingly using autonomous AI agents to automate activities that previously required significant manual effort."
     }
   ]
 }
