@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-19",
-  "window": "Stories from 13 to 19 November 2026",
-  "updated": "Updated 19 November 2026, 14:24 GMT",
+  "date": "2026-11-20",
+  "window": "Stories from 16 to 20 November 2026",
+  "updated": "Updated 20 November 2026, 13:58 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -29,19 +29,27 @@
     },
     {
       "cat": "exposure",
-      "title": "How AI is changing the nature of cyberattacks",
-      "url": "https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html",
-      "source": "CSO Online",
-      "date": "2026-11-13",
-      "why": "AI may be helping cyberattackers increase the speed and scale of their operations, but it is not yet changing their core objectives or the techniques they employ as part of their attack chains."
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "source": "The Hacker News",
+      "date": "2026-11-20",
+      "why": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks."
     },
     {
       "cat": "vuln",
-      "title": "Indirect prompt injection via documents, email and RAG sources",
-      "url": "https://securityboulevard.com/2026/11/indirect-prompt-injection-via-documents-email-and-rag-sources/",
-      "source": "Security Boulevard",
-      "date": "2026-11-19",
-      "why": "Indirect prompt injection is one of the more subtle risks in AI-enabled workflows because the malicious instruction is hidden inside content the system is meant to trust."
+      "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
+      "url": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
+      "source": "CSO Online",
+      "date": "2026-11-17",
+      "why": "AI-assisted vulnerability discovery has made it untenable for software vendors to sit on privately reported flaws for months, and Google Project Zero is responding by shrinking its vulnerability disclosure deadline…"
+    },
+    {
+      "cat": "vuln",
+      "title": "Your AI red team may be finding the same prompt injection thousands of times",
+      "url": "https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
+      "source": "Help Net Security",
+      "date": "2026-11-20",
+      "why": "AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of…"
     },
     {
       "cat": "vuln",
@@ -52,6 +60,14 @@
       "why": "Open source NGINX joins patchapalooza"
     },
     {
+      "cat": "vuln",
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+      "source": "Dark Reading",
+      "date": "2026-11-19",
+      "why": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions,…"
+    },
+    {
       "cat": "threat",
       "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
@@ -60,28 +76,12 @@
       "why": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations."
     },
     {
-      "cat": "vuln",
-      "title": "Four Days Early: Why AI-Found Vulnerabilities Demand Protection That’s Already On",
-      "url": "https://securityboulevard.com/2026/11/four-days-early-why-ai-found-vulnerabilities-demand-protection-thats-already-on/",
-      "source": "Security Boulevard",
-      "date": "2026-11-19",
-      "why": "In October 2026, attackers went after PHP2Shell four days before a fix existed. Nearly every WAF provider published a rule within about a day."
-    },
-    {
       "cat": "threat",
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "source": "BleepingComputer",
-      "date": "2026-11-18",
-      "why": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems."
-    },
-    {
-      "cat": "threat",
-      "title": "Hackers Use ARTEX AI Agents to Automate Network Intrusions and Gain Privileged Access in Under 3 Hours",
-      "url": "https://securityboulevard.com/2026/11/hackers-use-artex-ai-agents-to-automate-network-intrusions-and-gain-privileged-access-in-under-3-hours/",
-      "source": "Security Boulevard",
-      "date": "2026-11-19",
-      "why": "IntroductionArtificial intelligence is changing the cybersecurity landscape, and attackers are increasingly using autonomous AI agents to automate activities that previously required significant manual effort."
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "why": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN,…"
     }
   ]
 }
