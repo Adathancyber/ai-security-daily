@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-20",
-  "window": "Stories from 16 to 20 November 2026",
-  "updated": "Updated 20 November 2026, 13:58 GMT",
+  "date": "2026-11-21",
+  "window": "Stories from 17 to 21 November 2026",
+  "updated": "Updated 21 November 2026, 13:26 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -20,12 +20,36 @@
       "why": "Google said it had identified a hacker-operated AI framework designed to discover software vulnerabilities and execute exploits without human intervention, marking the first time its researchers had observed such a…"
     },
     {
+      "cat": "vuln",
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "source": "SecurityWeek",
+      "date": "2026-11-21",
+      "why": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability."
+    },
+    {
       "cat": "exposure",
       "title": "AI unearths ‘internet breaker’ flaws in Nginx web server",
       "url": "https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html",
       "source": "CSO Online",
       "date": "2026-11-18",
       "why": "Nginx, the web server estimated to power a third of the internet, has shipped fixes for multiple vulnerabilities, including a critical unauthenticated remote code execution flaw that puts millions of websites at risk…"
+    },
+    {
+      "cat": "vuln",
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "source": "The Register",
+      "date": "2026-11-20",
+      "why": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said"
+    },
+    {
+      "cat": "vuln",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21",
+      "why": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence…"
     },
     {
       "cat": "exposure",
@@ -37,6 +61,14 @@
     },
     {
       "cat": "vuln",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "source": "BleepingComputer",
+      "date": "2026-11-20",
+      "why": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application."
+    },
+    {
+      "cat": "vuln",
       "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
       "url": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
       "source": "CSO Online",
@@ -45,43 +77,11 @@
     },
     {
       "cat": "vuln",
-      "title": "Your AI red team may be finding the same prompt injection thousands of times",
-      "url": "https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
-      "source": "Help Net Security",
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "source": "The Record",
       "date": "2026-11-20",
-      "why": "AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of…"
-    },
-    {
-      "cat": "vuln",
-      "title": "AI found more critical bugs in another widely used technology running 225M websites",
-      "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
-      "source": "The Register",
-      "date": "2026-11-18",
-      "why": "Open source NGINX joins patchapalooza"
-    },
-    {
-      "cat": "vuln",
-      "title": "Navigating Vulnerability Hysteria in the AI Era",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-      "source": "Dark Reading",
-      "date": "2026-11-19",
-      "why": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions,…"
-    },
-    {
-      "cat": "threat",
-      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-      "source": "Dark Reading",
-      "date": "2026-11-16",
-      "why": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations."
-    },
-    {
-      "cat": "threat",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16",
-      "why": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN,…"
+      "why": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said."
     }
   ]
 }
