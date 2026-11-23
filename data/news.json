@@ -1,8 +1,24 @@
 {
-  "date": "2026-11-22",
-  "window": "Stories from 17 to 21 November 2026",
-  "updated": "Updated 22 November 2026, 13:19 GMT",
+  "date": "2026-11-23",
+  "window": "Stories from 17 to 23 November 2026",
+  "updated": "Updated 23 November 2026, 15:56 GMT",
   "stories": [
+    {
+      "cat": "vuln",
+      "title": "Clever AI prompt ideas every security leader should steal",
+      "url": "https://www.csoonline.com/article/4248701/clever-ai-prompt-ideas-every-security-leader-should-steal.html",
+      "source": "CSO Online",
+      "date": "2026-11-23",
+      "why": "For all the talk of AI use by attackers and defenders, little attention is paid to ways CISOs and their security pros can leverage AI uniquely to expediate tasks, cut through the noise, facilitate decision-making, and…"
+    },
+    {
+      "cat": "exposure",
+      "title": "When Your AI Assistant Faces the Internet: LLMJacking, Data Leakage, and the New Shadow Attack Surface",
+      "url": "https://securityboulevard.com/2026/11/when-your-ai-assistant-faces-the-internet-llmjacking-data-leakage-and-the-new-shadow-attack-surface/",
+      "source": "Security Boulevard",
+      "date": "2026-11-23",
+      "why": "Every organization is shipping AI assistants right now. Support bots, “research” agents, internal copilots, knowledge-base search wired to a model."
+    },
     {
       "cat": "exposure",
       "title": "Vulnerability management: The cybersecurity industry is still solving the wrong problem",
@@ -12,12 +28,12 @@
       "why": "We have never been short of vulnerabilities. We have always struggled with remedial work. For decades, the cybersecurity industry has approached vulnerability management from the wrong end."
     },
     {
-      "cat": "exposure",
-      "title": "Google spots the first hacker AI system that finds and exploits flaws autonomously",
-      "url": "https://www.csoonline.com/article/4249595/google-spots-the-first-hacker-ai-system-that-finds-and-exploits-flaws-autonomously.html",
-      "source": "CSO Online",
-      "date": "2026-11-17",
-      "why": "Google said it had identified a hacker-operated AI framework designed to discover software vulnerabilities and execute exploits without human intervention, marking the first time its researchers had observed such a…"
+      "cat": "vuln",
+      "title": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks",
+      "url": "https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
+      "source": "Help Net Security",
+      "date": "2026-11-23",
+      "why": "Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained…"
     },
     {
       "cat": "exposure",
@@ -29,14 +45,6 @@
     },
     {
       "cat": "vuln",
-      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-11-21",
-      "why": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability."
-    },
-    {
-      "cat": "vuln",
       "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
       "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
       "source": "The Register",
@@ -45,19 +53,19 @@
     },
     {
       "cat": "vuln",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "source": "The Hacker News",
-      "date": "2026-11-21",
-      "why": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence…"
-    },
-    {
-      "cat": "vuln",
       "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
       "url": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
       "source": "CSO Online",
       "date": "2026-11-17",
       "why": "AI-assisted vulnerability discovery has made it untenable for software vendors to sit on privately reported flaws for months, and Google Project Zero is responding by shrinking its vulnerability disclosure deadline…"
+    },
+    {
+      "cat": "vuln",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21",
+      "why": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence…"
     },
     {
       "cat": "exposure",
@@ -74,14 +82,6 @@
       "source": "BleepingComputer",
       "date": "2026-11-20",
       "why": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application."
-    },
-    {
-      "cat": "vuln",
-      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
-      "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-      "source": "The Record",
-      "date": "2026-11-20",
-      "why": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said."
     }
   ]
 }
