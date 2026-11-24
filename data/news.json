@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-23",
-  "window": "Stories from 17 to 23 November 2026",
-  "updated": "Updated 23 November 2026, 15:56 GMT",
+  "date": "2026-11-24",
+  "window": "Stories from 19 to 24 November 2026",
+  "updated": "Updated 24 November 2026, 15:51 GMT",
   "stories": [
     {
       "cat": "vuln",
@@ -12,12 +12,52 @@
       "why": "For all the talk of AI use by attackers and defenders, little attention is paid to ways CISOs and their security pros can leverage AI uniquely to expediate tasks, cut through the noise, facilitate decision-making, and…"
     },
     {
+      "cat": "vuln",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "why": "The U.S."
+    },
+    {
       "cat": "exposure",
-      "title": "When Your AI Assistant Faces the Internet: LLMJacking, Data Leakage, and the New Shadow Attack Surface",
-      "url": "https://securityboulevard.com/2026/11/when-your-ai-assistant-faces-the-internet-llmjacking-data-leakage-and-the-new-shadow-attack-surface/",
+      "title": "Attackers exploited an Azure API Management flaw to steal secrets, Microsoft warns",
+      "url": "https://www.csoonline.com/article/4252513/attackers-exploited-an-azure-api-management-flaw-to-steal-secrets-microsoft-warns.html",
+      "source": "CSO Online",
+      "date": "2026-11-24",
+      "why": "Microsoft is warning customers that attackers exploited a flaw in Azure API Management Classic tiers to steal stored secrets, an intrusion that Norway’s National Security Authority has linked to breaches at two energy…"
+    },
+    {
+      "cat": "exposure",
+      "title": "Astelia blocks attack paths to vulnerabilities without waiting for patches",
+      "url": "https://www.helpnetsecurity.com/2026/11/24/astelia-autonomous-network-mitigation/",
+      "source": "Help Net Security",
+      "date": "2026-11-24",
+      "why": "Astelia has announced autonomous network mitigation, a new capability that defends against AI-driven exploits by blocking attack paths to reachable vulnerabilities at the network level."
+    },
+    {
+      "cat": "exposure",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "why": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without…"
+    },
+    {
+      "cat": "threat",
+      "title": "Can Your Defenses Stop AI-Powered Attacks? Test Them With SafeBreach.",
+      "url": "https://securityboulevard.com/2026/11/can-your-defenses-stop-ai-powered-attacks-test-them-with-safebreach/",
       "source": "Security Boulevard",
-      "date": "2026-11-23",
-      "why": "Every organization is shipping AI assistants right now. Support bots, “research” agents, internal copilots, knowledge-base search wired to a model."
+      "date": "2026-11-24",
+      "why": "Nov 24, 2026 Can Your Defenses Stop AI-Powered Attacks? Test Them With SafeBreach."
+    },
+    {
+      "cat": "exposure",
+      "title": "Researchers Find a New AI Attack Path: Agent Instructions",
+      "url": "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-24",
+      "why": "Ox Security warns that agents are being manipulated without the need for executable malware"
     },
     {
       "cat": "exposure",
@@ -28,60 +68,20 @@
       "why": "We have never been short of vulnerabilities. We have always struggled with remedial work. For decades, the cybersecurity industry has approached vulnerability management from the wrong end."
     },
     {
-      "cat": "vuln",
-      "title": "Open-source AI pentesting framework Cairn keeps turning up in real-world attacks",
-      "url": "https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
-      "source": "Help Net Security",
-      "date": "2026-11-23",
-      "why": "Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained…"
-    },
-    {
-      "cat": "exposure",
-      "title": "AI unearths ‘internet breaker’ flaws in Nginx web server",
-      "url": "https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html",
-      "source": "CSO Online",
-      "date": "2026-11-18",
-      "why": "Nginx, the web server estimated to power a third of the internet, has shipped fixes for multiple vulnerabilities, including a critical unauthenticated remote code execution flaw that puts millions of websites at risk…"
+      "cat": "threat",
+      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
+      "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
+      "source": "The Record",
+      "date": "2026-11-24",
+      "why": "Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and…"
     },
     {
       "cat": "vuln",
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
-      "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "source": "The Register",
-      "date": "2026-11-20",
-      "why": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said"
-    },
-    {
-      "cat": "vuln",
-      "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
-      "url": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
-      "source": "CSO Online",
-      "date": "2026-11-17",
-      "why": "AI-assisted vulnerability discovery has made it untenable for software vendors to sit on privately reported flaws for months, and Google Project Zero is responding by shrinking its vulnerability disclosure deadline…"
-    },
-    {
-      "cat": "vuln",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
       "source": "The Hacker News",
-      "date": "2026-11-21",
-      "why": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence…"
-    },
-    {
-      "cat": "exposure",
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-      "source": "The Hacker News",
-      "date": "2026-11-20",
-      "why": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks."
-    },
-    {
-      "cat": "vuln",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20",
-      "why": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application."
+      "date": "2026-11-24",
+      "why": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime."
     }
   ]
 }
