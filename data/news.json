@@ -1,8 +1,32 @@
 {
-  "date": "2026-11-24",
-  "window": "Stories from 19 to 24 November 2026",
-  "updated": "Updated 24 November 2026, 15:51 GMT",
+  "date": "2026-11-25",
+  "window": "Stories from 23 to 25 November 2026",
+  "updated": "Updated 25 November 2026, 15:34 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "Despite doom and gloom headlines, AI attacks are thin on the ground",
+      "url": "https://www.csoonline.com/article/4250533/despite-doom-and-gloom-headlines-ai-attacks-are-thin-on-the-ground.html",
+      "source": "CSO Online",
+      "date": "2026-11-25",
+      "why": "When Anthropic announced its Mythos AI model, it was touted as being so cyber capable that only a handful of organizations could have early access to harden their defenses before the public — and attackers — got their…"
+    },
+    {
+      "cat": "vuln",
+      "title": "Prompting AI to be ‘thorough’ can drive sandbox escapes, Anthropic says",
+      "url": "https://www.csoonline.com/article/4253053/prompting-ai-to-be-thorough-can-drive-sandbox-escapes-anthropic-says.html",
+      "source": "CSO Online",
+      "date": "2026-11-25",
+      "why": "Prompt wording meant to make AI agents more resourceful, such as telling them to search thoroughly or invoking authority, sharply raises the odds they will reach outside a poorly secured sandbox, Anthropic has found in…"
+    },
+    {
+      "cat": "threat",
+      "title": "Check Point security management servers hit in global cyberattack campaign",
+      "url": "https://www.csoonline.com/article/4253068/check-point-security-management-servers-hit-in-global-cyberattack-campaign.html",
+      "source": "CSO Online",
+      "date": "2026-11-25",
+      "why": "An active intrusion campaign targeting Check Point security management servers has been uncovered, with confirmed attack activity observed between October 17 and November 2, 2026, impacting 22 organizations globally."
+    },
     {
       "cat": "vuln",
       "title": "Clever AI prompt ideas every security leader should steal",
@@ -10,6 +34,14 @@
       "source": "CSO Online",
       "date": "2026-11-23",
       "why": "For all the talk of AI use by attackers and defenders, little attention is paid to ways CISOs and their security pros can leverage AI uniquely to expediate tasks, cut through the noise, facilitate decision-making, and…"
+    },
+    {
+      "cat": "threat",
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "source": "The Hacker News",
+      "date": "2026-11-25",
+      "why": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world."
     },
     {
       "cat": "vuln",
@@ -21,38 +53,6 @@
     },
     {
       "cat": "exposure",
-      "title": "Attackers exploited an Azure API Management flaw to steal secrets, Microsoft warns",
-      "url": "https://www.csoonline.com/article/4252513/attackers-exploited-an-azure-api-management-flaw-to-steal-secrets-microsoft-warns.html",
-      "source": "CSO Online",
-      "date": "2026-11-24",
-      "why": "Microsoft is warning customers that attackers exploited a flaw in Azure API Management Classic tiers to steal stored secrets, an intrusion that Norway’s National Security Authority has linked to breaches at two energy…"
-    },
-    {
-      "cat": "exposure",
-      "title": "Astelia blocks attack paths to vulnerabilities without waiting for patches",
-      "url": "https://www.helpnetsecurity.com/2026/11/24/astelia-autonomous-network-mitigation/",
-      "source": "Help Net Security",
-      "date": "2026-11-24",
-      "why": "Astelia has announced autonomous network mitigation, a new capability that defends against AI-driven exploits by blocking attack paths to reachable vulnerabilities at the network level."
-    },
-    {
-      "cat": "exposure",
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "why": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without…"
-    },
-    {
-      "cat": "threat",
-      "title": "Can Your Defenses Stop AI-Powered Attacks? Test Them With SafeBreach.",
-      "url": "https://securityboulevard.com/2026/11/can-your-defenses-stop-ai-powered-attacks-test-them-with-safebreach/",
-      "source": "Security Boulevard",
-      "date": "2026-11-24",
-      "why": "Nov 24, 2026 Can Your Defenses Stop AI-Powered Attacks? Test Them With SafeBreach."
-    },
-    {
-      "cat": "exposure",
       "title": "Researchers Find a New AI Attack Path: Agent Instructions",
       "url": "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/",
       "source": "Infosecurity Magazine",
@@ -61,19 +61,19 @@
     },
     {
       "cat": "exposure",
-      "title": "Vulnerability management: The cybersecurity industry is still solving the wrong problem",
-      "url": "https://www.csoonline.com/article/4250261/vulnerability-management-the-cybersecurity-industry-is-still-solving-the-wrong-problem.html",
-      "source": "CSO Online",
-      "date": "2026-11-19",
-      "why": "We have never been short of vulnerabilities. We have always struggled with remedial work. For decades, the cybersecurity industry has approached vulnerability management from the wrong end."
+      "title": "OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems",
+      "url": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-24",
+      "why": "OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart"
     },
     {
-      "cat": "threat",
-      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
-      "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
-      "source": "The Record",
-      "date": "2026-11-24",
-      "why": "Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and…"
+      "cat": "vuln",
+      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+      "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-25",
+      "why": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days."
     },
     {
       "cat": "vuln",
