@@ -1,8 +1,16 @@
 {
-  "date": "2026-11-25",
-  "window": "Stories from 23 to 25 November 2026",
-  "updated": "Updated 25 November 2026, 15:34 GMT",
+  "date": "2026-11-26",
+  "window": "Stories from 23 to 26 November 2026",
+  "updated": "Updated 26 November 2026, 15:10 GMT",
   "stories": [
+    {
+      "cat": "exposure",
+      "title": "Palo Alto confirms Fragnesia exploitation against firewalls in PHP2Shell attacks",
+      "url": "https://www.csoonline.com/article/4253600/palo-alto-confirms-fragnesia-exploitation-against-firewalls-in-php2shell-attacks.html",
+      "source": "CSO Online",
+      "date": "2026-11-26",
+      "why": "Palo Alto Networks has confirmed that attackers exploited Fragnesia, a Linux kernel flaw, to gain root on PAN-OS firewalls through the PHP2Shell vulnerabilities, and has shipped fixes six months after the bug was…"
+    },
     {
       "cat": "exposure",
       "title": "Despite doom and gloom headlines, AI attacks are thin on the ground",
@@ -10,6 +18,14 @@
       "source": "CSO Online",
       "date": "2026-11-25",
       "why": "When Anthropic announced its Mythos AI model, it was touted as being so cyber capable that only a handful of organizations could have early access to harden their defenses before the public — and attackers — got their…"
+    },
+    {
+      "cat": "threat",
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-26",
+      "why": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign."
     },
     {
       "cat": "vuln",
@@ -20,20 +36,28 @@
       "why": "Prompt wording meant to make AI agents more resourceful, such as telling them to search thoroughly or invoking authority, sharply raises the odds they will reach outside a poorly secured sandbox, Anthropic has found in…"
     },
     {
-      "cat": "threat",
-      "title": "Check Point security management servers hit in global cyberattack campaign",
-      "url": "https://www.csoonline.com/article/4253068/check-point-security-management-servers-hit-in-global-cyberattack-campaign.html",
-      "source": "CSO Online",
-      "date": "2026-11-25",
-      "why": "An active intrusion campaign targeting Check Point security management servers has been uncovered, with confirmed attack activity observed between October 17 and November 2, 2026, impacting 22 organizations globally."
-    },
-    {
       "cat": "vuln",
       "title": "Clever AI prompt ideas every security leader should steal",
       "url": "https://www.csoonline.com/article/4248701/clever-ai-prompt-ideas-every-security-leader-should-steal.html",
       "source": "CSO Online",
       "date": "2026-11-23",
       "why": "For all the talk of AI use by attackers and defenders, little attention is paid to ways CISOs and their security pros can leverage AI uniquely to expediate tasks, cut through the noise, facilitate decision-making, and…"
+    },
+    {
+      "cat": "exposure",
+      "title": "CISO Diaries: Dr. Jackson Muhirwe on Cyber Resilience, Shadow AI, and People-First Leadership",
+      "url": "https://securityboulevard.com/2026/11/ciso-diaries-dr-jackson-muhirwe-on-cyber-resilience-shadow-ai-and-people-first-leadership/",
+      "source": "Security Boulevard",
+      "date": "2026-11-26",
+      "why": "Dr."
+    },
+    {
+      "cat": "vuln",
+      "title": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
+      "url": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/",
+      "source": "Help Net Security",
+      "date": "2026-11-26",
+      "why": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud…"
     },
     {
       "cat": "threat",
@@ -58,30 +82,6 @@
       "source": "Infosecurity Magazine",
       "date": "2026-11-24",
       "why": "Ox Security warns that agents are being manipulated without the need for executable malware"
-    },
-    {
-      "cat": "exposure",
-      "title": "OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems",
-      "url": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-11-24",
-      "why": "OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart"
-    },
-    {
-      "cat": "vuln",
-      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-      "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25",
-      "why": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days."
-    },
-    {
-      "cat": "vuln",
-      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-      "source": "The Hacker News",
-      "date": "2026-11-24",
-      "why": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime."
     }
   ]
 }
