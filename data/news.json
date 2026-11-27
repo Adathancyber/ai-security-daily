@@ -1,16 +1,8 @@
 {
-  "date": "2026-11-26",
-  "window": "Stories from 23 to 26 November 2026",
-  "updated": "Updated 26 November 2026, 15:10 GMT",
+  "date": "2026-11-27",
+  "window": "Stories from 23 to 27 November 2026",
+  "updated": "Updated 27 November 2026, 15:01 GMT",
   "stories": [
-    {
-      "cat": "exposure",
-      "title": "Palo Alto confirms Fragnesia exploitation against firewalls in PHP2Shell attacks",
-      "url": "https://www.csoonline.com/article/4253600/palo-alto-confirms-fragnesia-exploitation-against-firewalls-in-php2shell-attacks.html",
-      "source": "CSO Online",
-      "date": "2026-11-26",
-      "why": "Palo Alto Networks has confirmed that attackers exploited Fragnesia, a Linux kernel flaw, to gain root on PAN-OS firewalls through the PHP2Shell vulnerabilities, and has shipped fixes six months after the bug was…"
-    },
     {
       "cat": "exposure",
       "title": "Despite doom and gloom headlines, AI attacks are thin on the ground",
@@ -18,6 +10,14 @@
       "source": "CSO Online",
       "date": "2026-11-25",
       "why": "When Anthropic announced its Mythos AI model, it was touted as being so cyber capable that only a handful of organizations could have early access to harden their defenses before the public — and attackers — got their…"
+    },
+    {
+      "cat": "exposure",
+      "title": "Palo Alto confirms Fragnesia exploitation against firewalls in PHP2Shell attacks",
+      "url": "https://www.csoonline.com/article/4253600/palo-alto-confirms-fragnesia-exploitation-against-firewalls-in-php2shell-attacks.html",
+      "source": "CSO Online",
+      "date": "2026-11-26",
+      "why": "Palo Alto Networks has confirmed that attackers exploited Fragnesia, a Linux kernel flaw, to gain root on PAN-OS firewalls through the PHP2Shell vulnerabilities, and has shipped fixes six months after the bug was…"
     },
     {
       "cat": "threat",
@@ -44,20 +44,12 @@
       "why": "For all the talk of AI use by attackers and defenders, little attention is paid to ways CISOs and their security pros can leverage AI uniquely to expediate tasks, cut through the noise, facilitate decision-making, and…"
     },
     {
-      "cat": "exposure",
-      "title": "CISO Diaries: Dr. Jackson Muhirwe on Cyber Resilience, Shadow AI, and People-First Leadership",
-      "url": "https://securityboulevard.com/2026/11/ciso-diaries-dr-jackson-muhirwe-on-cyber-resilience-shadow-ai-and-people-first-leadership/",
-      "source": "Security Boulevard",
-      "date": "2026-11-26",
-      "why": "Dr."
-    },
-    {
       "cat": "vuln",
-      "title": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
-      "url": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/",
-      "source": "Help Net Security",
-      "date": "2026-11-26",
-      "why": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud…"
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "why": "The U.S."
     },
     {
       "cat": "threat",
@@ -68,20 +60,28 @@
       "why": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world."
     },
     {
-      "cat": "vuln",
-      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-11-24",
-      "why": "The U.S."
+      "cat": "threat",
+      "title": "Chinese and North Korean state hackers add ARTEX AI framework to their arsenal",
+      "url": "https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/",
+      "source": "Help Net Security",
+      "date": "2026-11-27",
+      "why": "State-sponsored hacking groups tied to Beijing and Pyongyang have started running the ARTEX pentesting tool in attacks, Microsoft Threat Intelligence warned this week."
     },
     {
-      "cat": "exposure",
-      "title": "Researchers Find a New AI Attack Path: Agent Instructions",
-      "url": "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/",
-      "source": "Infosecurity Magazine",
-      "date": "2026-11-24",
-      "why": "Ox Security warns that agents are being manipulated without the need for executable malware"
+      "cat": "threat",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27",
+      "why": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday."
+    },
+    {
+      "cat": "threat",
+      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "source": "The Register",
+      "date": "2026-11-26",
+      "why": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes"
     }
   ]
 }
