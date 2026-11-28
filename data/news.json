@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "window": "Stories from 23 to 27 November 2026",
-  "updated": "Updated 27 November 2026, 15:01 GMT",
+  "updated": "Updated 28 November 2026, 14:09 GMT",
   "stories": [
     {
       "cat": "exposure",
@@ -29,19 +29,19 @@
     },
     {
       "cat": "vuln",
-      "title": "Prompting AI to be ‘thorough’ can drive sandbox escapes, Anthropic says",
-      "url": "https://www.csoonline.com/article/4253053/prompting-ai-to-be-thorough-can-drive-sandbox-escapes-anthropic-says.html",
-      "source": "CSO Online",
-      "date": "2026-11-25",
-      "why": "Prompt wording meant to make AI agents more resourceful, such as telling them to search thoroughly or invoking authority, sharply raises the odds they will reach outside a poorly secured sandbox, Anthropic has found in…"
-    },
-    {
-      "cat": "vuln",
       "title": "Clever AI prompt ideas every security leader should steal",
       "url": "https://www.csoonline.com/article/4248701/clever-ai-prompt-ideas-every-security-leader-should-steal.html",
       "source": "CSO Online",
       "date": "2026-11-23",
       "why": "For all the talk of AI use by attackers and defenders, little attention is paid to ways CISOs and their security pros can leverage AI uniquely to expediate tasks, cut through the noise, facilitate decision-making, and…"
+    },
+    {
+      "cat": "vuln",
+      "title": "Prompting AI to be ‘thorough’ can drive sandbox escapes, Anthropic says",
+      "url": "https://www.csoonline.com/article/4253053/prompting-ai-to-be-thorough-can-drive-sandbox-escapes-anthropic-says.html",
+      "source": "CSO Online",
+      "date": "2026-11-25",
+      "why": "Prompt wording meant to make AI agents more resourceful, such as telling them to search thoroughly or invoking authority, sharply raises the odds they will reach outside a poorly secured sandbox, Anthropic has found in…"
     },
     {
       "cat": "vuln",
@@ -60,6 +60,14 @@
       "why": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world."
     },
     {
+      "cat": "industry",
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "source": "Dark Reading",
+      "date": "2026-11-27",
+      "why": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across…"
+    },
+    {
       "cat": "threat",
       "title": "Chinese and North Korean state hackers add ARTEX AI framework to their arsenal",
       "url": "https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/",
@@ -68,20 +76,12 @@
       "why": "State-sponsored hacking groups tied to Beijing and Pyongyang have started running the ARTEX pentesting tool in attacks, Microsoft Threat Intelligence warned this week."
     },
     {
-      "cat": "threat",
-      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
-      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-      "source": "The Hacker News",
-      "date": "2026-11-27",
-      "why": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday."
-    },
-    {
-      "cat": "threat",
-      "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
-      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
-      "source": "The Register",
-      "date": "2026-11-26",
-      "why": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes"
+      "cat": "exposure",
+      "title": "Researchers Find a New AI Attack Path: Agent Instructions",
+      "url": "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/",
+      "source": "Infosecurity Magazine",
+      "date": "2026-11-24",
+      "why": "Ox Security warns that agents are being manipulated without the need for executable malware"
     }
   ]
 }
